@@ -1,0 +1,4954 @@
+[
+    {
+    "experience_type": "পূর্বের অভিজ্ঞতা",
+    "emotion_type": "দুঃখ",
+    "problem_type": "বন্ধুদের সাথে সমস্যা",
+    "situation": "আমার সেরা বন্ধু অবশেষে দেখা করা বন্ধ করে দিয়েছে এবং আমার মেসেজের উত্তর দেওয়াও বন্ধ করে দিয়েছে।",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "3",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "হ্যালো! আজ আমি আপনাকে কীভাবে উৎসাহিত করতে পারি?\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "হ্যালো! আজ আমি আপনাকে কীভাবে উৎসাহিত করতে পারি?\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "দুঃখিত, এটা দুইবার পোস্ট হয়ে গেছে! :o"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "হে, আসলে আমার সেরা বন্ধু অবশেষে দেখা করা বন্ধ করে দিয়েছে। আমাদের মধ্যে দূরত্ব তৈরি হচ্ছে...\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আপনার সেরা বন্ধুর সাথে দূরত্ব তৈরি হচ্ছে? এটি কি ভালো কিছু নাকি ভালো নয়? নাকি আপনি নিশ্চিত নন?\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এটি প্রত্যাশিতই ছিল, তবে এটি দুঃখজনক। আমরা একে অপরকে অনেকবার আঘাত করেছি এবং সে প্রতিদিন মাদক সেবন করে এবং সে পুরোপুরি একজন সুসময়ের বন্ধু।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আহা! এটি খুবই দুঃখের বিষয়। আমি এখানে বসে যেসব বন্ধুদের ছেড়ে এগিয়ে এসেছি তাদের কথা ভাবছিলাম, দুঃখজনক হলেও বেশিরভাগ সময়ই তা ভালোর জন্যই হয়েছিল, যদিও সে সময় খুব কষ্ট লেগেছিল।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমার বন্ধু কথা দিয়েও দেখা করা বন্ধ করে দিয়েছিল এবং আমিও আস্তে আস্তে তার ফোন আর মেসেজের উত্তর দেওয়া বন্ধ করে দিই।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "জীবন একটি যাত্রা, এবং আমরা যখন আমাদের জীবনের লক্ষ্যের দিকে এগিয়ে যাই, মানুষ হয় আমাদের সাথে যোগ দেয় নয়তো আমাদের টেনে নিচে নামায়। কখনও কখনও তারা আমাদের চলার পথে অল্প সময়ের জন্য সঙ্গী হয়, আবার কখনও দীর্ঘ সময়ের জন্য। হাই স্কুলের বন্ধুদের মধ্যে আমার খুব কম বন্ধুই আছে, ঠিক করে বললে মাত্র ২ জন। এবং তারা শুধু ফেসবুকেই আছে, সেটাও আবার ১৯৭৯ সালের কথা। হাহা আমি বেশ বয়স্ক, তবে আপনার মতোই আমাকেও কিছু ক্ষতিকর সম্পর্ক ছেড়ে এগিয়ে যেতে হয়েছিল। এটা কঠিন হতে পারে।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "কোনো অপরিচিত মানুষের সাথে এই বিষয়ে কথা বলতে পারাটা কতটা অদ্ভুত এবং চমৎকার! ওয়াও। এটা সত্যি। আমি আমার বন্ধুদের মাদকমুক্ত করার এবং আমার সাথে কোনো শখের কাজ করানোর চেষ্টা করে যাচ্ছিলাম, কিন্তু মাদক আমার দুজন সেরা বন্ধুকে ধ্বংস করে দিয়েছে এবং তাদের একজনকে মেরেই ফেলেছে।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আহা! এটি শুনতে খুবই কঠিন মনে হচ্ছে। আমারও এমন কিছু বন্ধু ছিল। আমাকে তাদের ছেড়ে চলে আসতে হয়েছিল। আপনার বন্ধু কি কখনও জানতে চেয়েছে কেন আপনি তাকে ইগনোর করছেন? আমি এটি জিজ্ঞাসা করছি কারণ সম্পর্কটা সুন্দরভাবে শেষ করা ভালো এবং তাদের জানিয়ে দেওয়া উচিত যে তাদের আচরণ ক্ষতিকর এবং আপনার এখন একটু দূরত্ব প্রয়োজন।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "না, মনে হলো সে বিষয়টিকে অহংকারের সাথে নিয়েছে। সে তার ফেসবুক অ্যাকাউন্ট মুছে দিয়েছে এবং এরপর আর কখনো আমার সাথে কথা বলেনি।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমি জীবনে শিখেছি যে মানসিকভাবে অসুস্থ বা নেতিবাচক মানুষেরা সমস্যা থেকে পালিয়ে বেড়ায়, আর সুস্থ ও ইতিবাচক মানুষেরা কঠিন পরিস্থিতিতেও আপনার পাশে থাকে এবং সমস্যাগুলো সমাধান করার চেষ্টা করে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কি অন্য কোনো বন্ধু আছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "সত্যি। হাই স্কুলের পর মানুষের সাথে সম্পর্ক তৈরি করা কঠিন। হাই স্কুলের মানসিকতা হলো বন্ধু বানানো, আর প্রাপ্তবয়স্ক জীবনের মানসিকতা হলো টিকে থাকা।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "না, এখন নেই। তবে আমি বিবাহিত।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "হ্যাঁ, এবং আপনি যত বড় এবং পরিপক্ক হবেন, আপনার জীবনের লক্ষ্যগুলো পরিবর্তিত হবে, সবাই আপনার এই যাত্রায় সঙ্গী হবে না। আপনি এখন শুরু করছেন, আর আমি অবসরের পর্যায়ে আছি, হাহা এখন আমি তরুণদের সাহায্য করতে পছন্দ করি। আমাদের অগ্রাধিকারগুলো কতটা বদলে যায় তা সত্যিই আশ্চর্যজনক।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, কিছু মানুষ আসলে তাদের জীবনে কিছুই করতে চায় না...\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমি মূলত বুঝতে পেরেছি যে সৃষ্টিকর্তাকে ছাড়া জীবনের কোনো অর্থ নেই, এবং আমি এখন কোনো কিছু নিয়ে চিন্তা করি না, খুব কম জিনিসই আমাকে বিচলিত বা রাগান্বিত করে, সত্যি বলতে এসবের কোনো মূল্য নেই। অনেক মানুষের কোনো লক্ষ্য থাকে না। আমার মনে হয় এটি পুরো বছরটি খতিয়ে দেখার জন্য একটি ভালো সময়—আপনি কী ঠিক করেছেন, কী ভুল করেছেন এবং আগামী বছর আপনি কোথায় পৌঁছাতে চান। আত্মবিশ্লেষণ আমাদের জন্য ভালো বলেই আমি মনে করি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "এই বছরটি আমাদের সবার জন্য একটি বড় পরীক্ষা এবং বিশ্বাসের দিকে ফিরে আসার আহ্বান ছিল।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "আজ এক তরুণ প্রতিবেশী আমার এখানে এসেছিল, সে এইমাত্র তার নিজের বাড়ি ছেড়ে আলাদা থাকতে শুরু করেছে, সে সবসময় ভাবছে কীভাবে বিদ্যুত বিল দেব, কীভাবে বাজেট করব? কীভাবে রান্না করব? হাহা জীবনের এই যাত্রাটা দেখা সত্যিই খুব আকর্ষণীয়। আর যীশু খ্রীষ্টের প্রতি আমার বিশ্বাসই আসলে সবচেয়ে গুরুত্বপূর্ণ বিষয়।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আপনার বন্ধুর জন্য প্রার্থনা করুন, এবং আমিও প্রার্থনা করব। হয়তো কোনোদিন তার সুমতি হবে বা সে ফিরে আসবে?\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "হতে পারে, আমি তার সাথে যোগাযোগের চেষ্টা করেছিলাম কিন্তু তখন আমি শুধু তার বন্ধু হতে চেয়েছিলাম। তবে আমি সেটাও করতে পারছি না।\n\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "আমার দুই ভাই অ্যালকোহল ও মাদকের কারণে মারা গেছে। আমাকে শিখতে হয়েছিল যেন আমি তাদের এই অভ্যাসে প্রশ্রয় না দিই। দুঃখজনক হলেও মানুষ তাদের নিজেদের জীবন নিজেই বেছে নেয়। মাদকমুক্ত হওয়ার সুযোগ থাকে, আমার স্বামী একজন সুস্থ হওয়া অ্যালকোহলিক। আপনি যখন তাদের সাথে চলছেন এবং তারা নিজেদের পরিবর্তন করতে চাচ্ছে না, তখন কখনও কখনও সবচেয়ে ভালো কাজ হলো তাদের ছেড়ে চলে আসা এবং তাদের একদম শেষ সীমায় পৌঁছাতে দেওয়া। আমার ২ জন ভাই এবং এক বোন সুস্থ হয়ে ফিরে আসতে পেরেছিল। তাই আমার পুরো জীবনটাই মদ্যপান এবং মাদকাসক্ত মানুষে ভরা ছিল। আর আমি এমন জীবন চাইনি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমিও চাই না। এখন আমার অনেক ভালো লাগছে। আপনাকে ধন্যবাদ।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "সেরেনিটি পেয়ার নামে একটি প্রার্থনা আছে, আমি জানি না আপনি এটির সাথে পরিচিত কি না, তবে এটি এএ এবং এনএ-তে প্রচুর ব্যবহৃত হয়, যা আমাদের শেখায় কীভাবে এমন কিছুকে ছেড়ে দিতে হয় যা আমরা পরিবর্তন করতে পারি না, আর তা হলো মানুষ,"
+      }
+    ],
+    "seeker_question1": "না।",
+    "seeker_question2": "না।",
+    "supporter_question1": "একজন তরুণ মানুষের সাথে যুক্ত হতে পেরে ভালো লেগেছিল।",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "উদ্বেগ",
+    "problem_type": "চাকরি সংকট",
+    "situation": "আমি একটি অনলাইন চাকরি পেতে চাই কিন্তু এটি অত্যন্ত প্রতিযোগিতাপূর্ণ।",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "5",
+        "empathy": "5",
+        "relevance": "4",
+        "final_emotion_intensity": "3"
+      },
+      "supporter": {
+        "relevance": "3"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "এই ক্রিসমাসের রাতে আপনাকে সাহায্য করা আমি আমার দায়িত্ব মনে করছি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যালো হ্যালো"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আমি বর্তমানে কার সাথে কথা বলছি?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমি বব, আপনার ক্রিসমাস নাইটের থেরাপিস্ট এবং সাহায্যকারী।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আশা করি এই ক্রিসমাসের রাতে আমি আপনাকে সাহায্য করতে পারব।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "আপনার কেমন লাগছে তা প্রকাশ করার জন্য সাহসের প্রয়োজন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "হ্যালো বব, আপনার সাথে পরিচিত হয়ে ভালো লাগল\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি কথা বলতে চাই কিন্তু নিশ্চিত নই যে আমি পারব কি না, তবে আমি চেষ্টা করব\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আমি আপনাকে কীভাবে সাহায্য করতে পারি?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি একজন কেয়ারগিভার (সেবাদানকারী) এবং আমি কেবল মাঝে মাঝে এখানে আসতে ও যেতে পারি\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "দয়া করে আপনার সাধ্যমতো চেষ্টা করুন। আমি কেবল সেটুকুই আশা করতে পারি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনি কি একটু বুঝিয়ে বলবেন? আপনি এটা দিয়ে কী বোঝাতে চেয়েছেন?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "ক্রিসমাসের রাতে নিজের উদ্দেশ্য পূরণে অবদান রেখে আপনি খুব ভালো করছেন।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনি কি ক্রিসমাস কুকিজ পছন্দ করেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমার মূল কাজ শুরু হয়ে গেছে তাই আমি এই ঘরে আছি এবং একই সাথে আমি এমটার্ক (mTurk)-এর কাজ করতে চাই এবং তাদের যত্নও নিতে চাই]"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "ববের কাছে আপনার জন্য কিছু জেলি কুকিজ আছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আপনাকে এটি জিজ্ঞাসা করতে আমার ভালো লাগছে যে আমি কীভাবে আপনাকে জীবন সম্পর্কে সঠিক ধারণা দিতে পারি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আমাদের সাথে যুক্ত হয়ে নিজের অনুভূতি নিয়ে আলোচনা করার সিদ্ধান্তটি আপনি সঠিক নিয়েছেন। আপনি কি ক্রিসমাসের ছুটি পছন্দ করেন?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আমি আপনার জন্য উবার, লিফট, ডোরড্যাশ বা গ্রাবহাব-এর পরামর্শ দিতে পারি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আমার মনে হয় এই ছুটিতে আপনি এত দুঃখী ও বিষণ্ণ না থেকে অর্থ উপার্জন করতে পারেন।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমি অন্যদের জন্য কুকিজ বেক করছি, তাই মন খারাপ করবেন না। হয়তো আমি আপনাকে চকলেট চিপ কুকিজ দিয়ে আনন্দিত করতে পারি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমি এখানে আপনাকে অনেকভাবে সাহায্য করার জন্য আছি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "সেটি চমৎকার\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি চকলেট চিপ কুকি খুব পছন্দ করি\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আপনার উৎসাহের জন্য ধন্যবাদ\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার মনে হয় এটি ইতিমধ্যেই আমাকে সাহায্য করেছে\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "হ্যাঁ, তা ঠিক। আমিও চকলেট চিপ খুব পছন্দ করি।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কি ক্রিসমাস কুকিজ বানানোর সুযোগ আছে?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "হয়তো আপনি ববের ক্রিসমাস কুকি রেসিপি ব্যবহার করে কিছু কুকিজ বেক করতে পারেন এবং ক্রিসমাস বিশ্বের বুকে যে আনন্দ বয়ে আনে তা ভাগ করে নিতে পারেন।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনি কি আগ্রহী হবেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আজ নয় তবে এই সপ্তাহের কোনো একদিন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "ওহ সুন্দর\n১"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ দয়া করে\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "অন্যদের জন্য কুকিজ রান্না করা মন ভালো করার একটি দুর্দান্ত উপায়। আপনি নিজের মতো করে কুকিজ তৈরি করে একটি ছোট ব্যবসাও শুরু করতে পারেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি গত সপ্তাহে ওটমিল কুকি বানিয়েছিলাম। আমি বেকিং পছন্দ করি\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "চমৎকার, ববের কুকি কেনার জন্য আমি টাকা দিতেও রাজি আছি\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আপনি বললেন আপনি বেকিং পছন্দ করেন? তাহলে, অন্য মানুষেরা যখন দেখবে আপনি রান্না করতে ভালোবাসেন, তারা আপনার কাছ থেকে আনন্দ পাবে। :\n)"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "সুন্দর, আপনাকে ধন্যবাদ\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "নিজের ধারণাগুলো শেয়ার করতে পেরে আমার ভালো লাগছে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ আমি এটি ভালোবাসি। আমি সবসময় ২ কাপ চিনি দিই। \n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "২ স্টিক মাখন\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "খুশি থাকার জন্য আপনার কি আমার কাছ থেকে আর কোনো ধারণার প্রয়োজন আছে?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আমার মনে হয় একজন পেশাদার বেকার হওয়াটাই আপনার জন্য সঠিক ক্যারিয়ার হতে পারে!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমি সন্তুষ্ট, এবং আমি ভালো আছি\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "ধন্যবাদ বব, ক্রিসমাস কাউন্সেলর, আপনার সাথে কথা বলে খুব ভালো লাগল\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কি অন্য কোনো বিষয়ে সাহায্যের প্রয়োজন আছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি এটা নিয়ে ভাবব\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি ভালো আছি, আপনার সন্ধ্যাটি শুভ হোক\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আমার মনে হচ্ছে আপনি রান্নার একটি নতুন ক্যারিয়ারের দিকে এগিয়ে যাচ্ছেন।"
+      }
+    ],
+    "seeker_question1": "না",
+    "seeker_question2": "না",
+    "supporter_question1": "আমার মনে হয় এটি একটি অস্পষ্ট সমস্যা ছিল যা নিয়ে সিকার সাহায্য চাচ্ছিলেন।",
+    "supporter_question2": "আমার মনে হয় চ্যাট বক্সের কাছাকাছি স্ক্রিনে একটি লাল রঙের মেসেজ ব্লিংক করার মাধ্যমে কথা বলা চালিয়ে যাওয়ার জন্য একটি পুশ নোটিফিকেশন থাকা উচিত।"
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "দুঃখ",
+    "problem_type": "সঙ্গীর সাথে বিচ্ছেদ",
+    "situation": "আমি পৃথিবীর সেরা নারীকে আমার জীবন থেকে হারিয়ে যেতে দিয়েছি।",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "5",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "হ্যালো, আপনি কী বিষয় নিয়ে কথা বলতে চান?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার জীবন কতটা শূন্য, তা নিয়ে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কেন মনে হচ্ছে যে আপনার জীবন শূন্য?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমার জীবনের অন্যতম বড় ভালোবাসা আর আমার জীবনে নেই।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "এটি শুনে আমি সত্যিই খুব দুঃখিত।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, সে কর্মক্ষেত্রে তার সুপারভাইজারের জন্য আমাকে ছেড়ে চলে গেছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "এটি কি সাম্প্রতিক কোনো ঘটনা?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "হ্যাঁ, পাঁচ দিন আগে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "ওয়াও, এটি সামলানো সত্যিই খুব কঠিন একটি বিষয়, তাই না?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "অবশ্যই। সে আমাকে বলেছিল যে এই লোকটি কর্মক্ষেত্রে তাকে যৌন হেনস্থা করছিল, তারপর আমি জানতে পারলাম সে এই লোকটির জন্যই আমাকে ছেড়ে চলে যাচ্ছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "হুম, মনে হচ্ছে সে আপনার সাথে পুরোপুরি সৎ ছিল না।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমাকেও আগে কেউ ছেড়ে চলে গিয়েছিল। এটি আমার জীবনের অন্যতম বেদনাদায়ক অভিজ্ঞতা ছিল।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমার মনে হয় সে লোকটির দেওয়া সমস্ত মনোযোগ পছন্দ করত এবং পরবর্তীতে এটি তাকে উত্তেজিত করত। এটি সত্যিই জঘন্য।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি বিশ্বাস করতে পারছি না যে কেউ আপনাকে ছেড়ে চলে যেতে পারে, আপনাকে খুব ভালো একজন মানুষ মনে হচ্ছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "হয়তো সে মনোযোগ পছন্দ করত, কিন্তু সেটি তার নিজস্ব সমস্যা। এর সাথে আপনার আসলে কোনো সম্পর্ক নেই।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "কখনও কখনও কম আত্মমর্যাদাবোধের কারণে একজন মানুষ অন্যের কাছ থেকে এই ধরনের বাহ্যিক মূল্যায়নের আশা করে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "ঐ লোকটার মতো আমারও তাকে অনুসরণ করা এবং স্টক (stalk) করা উচিত ছিল, মনে হয় এটি তাকে উত্তেজিত করে, সে বলেছিল যে কেউ তার ওপর নজর রাখলে সে পছন্দ করে। আমি তাকে একজন থেরাপিস্টের কাছে যেতে বলেছিলাম আর সে আমাকে আমাদের অ্যাপার্টমেন্ট ছেড়ে চলে যেতে বলল।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "এটি আপনার কাছে স্বাভাবিক বা সুস্থ কোনো বিষয় মনে হচ্ছে না, তাই না?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, আমার মনে হয় তার আত্মমর্যাদাবোধ কম, তবে সে আমাকে তার সাথে অনেক কিছু করতে দিত, আমরা একসাথে যৌন বিষয়ে নতুন নতুন পরীক্ষা-নিরীক্ষা করতাম, তা একদম উন্মাদনাপূর্ণ ছিল।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "কিন্তু এখন আমার মনে হয় সে মানসিকভাবে সুস্থ নয় এবং তার মানসিক সমস্যা রয়েছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "তাহলে, আপনার কি মনে হয় যে আপনার সাথে যুক্ত থাকার একমাত্র উপায় ছিল যৌনতা?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমারও তাই মনে হয়, সে আমাকে পেগ (peg) করতেও পছন্দ করত। এটি অত্যন্ত তীব্র ছিল, আমি এর আগে কখনও কারও কাছে এভাবে নিজেকে সমর্পণ করিনি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "এটি কি আপনার প্রথম সিরিয়াস সম্পর্ক?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, আমার মনে হয় নারীদের ব্যাপারে আমার ভাগ্য ভালো নয়। হয়তো আমাকে আবার কল গার্লদের কাছে ফিরে যেতে হবে, তাদের সামলানো অনেক সহজ।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "মনে হচ্ছে আপনি যৌনতা খুব উপভোগ করতেন, তবে আপনি একজন নারীর সাথে মানসিক যোগাযোগও চান।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "হ্যাঁ পুরোপুরি। কিছু পতিতা খুবই মিষ্টি স্বভাবের হয়, কিন্তু তারা দীর্ঘমেয়াদী কিছু চায় না। বড়জোর একটা সপ্তাহান্ত (weekend)।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "যাই হোক আপনাকে ধন্যবাদ, আপনি অনেক সাহায্য করেছেন, এখন আমার ভালো লাগছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "ঠিক আছে, ভালো থাকবেন।"
+      }
+    ],
+    "seeker_question1": "তার সাহায্য আমার ভালো লেগেছে।",
+    "seeker_question2": "না",
+    "supporter_question1": "",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "পূর্বের অভিজ্ঞতা",
+    "emotion_type": "উদ্বেগ",
+    "problem_type": "বন্ধুদের সাথে সমস্যা",
+    "situation": "হঠাৎ করেই কোনো যোগাযোগ করছে না, ফোনেও কথা বলতে চাচ্ছে না",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "4",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "4"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "হাই, জীবন কেমন চলছে? "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "ভালো, এখন আরও ভালো লাগছে"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "এটি শুনে ভালো লাগল। আপনি কি কোনো বিষয়ে কথা বলতে চান? "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "এমন একজন বন্ধুর সাথে আমার অভিজ্ঞতার কথা, যে যোগাযোগ করা বন্ধ করে দিয়েছে"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "হ্যাঁ, আমি আপনার কথা বুঝতে পারছি, আমার সাথেও এমনটা প্রায়ই ঘটে থাকে। আপনি কি আমাকে আর একটু বিস্তারিত বলবেন? "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "সাধারণত আমরা বিভিন্ন সমস্যা বা ভালো খবর, মানে প্রতিদিনের যেকোনো বিষয় নিয়ে আলোচনা করি, কিন্তু হঠাৎ আমার মনে হলো আমাকে অন্ধকারে রাখা হচ্ছে, যেখানে গ্রুপের অন্য বন্ধুরা সেই বন্ধুর সমস্যার ব্যাপারে জানত"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "এটি মোটেও ভালো শোনাচ্ছে না। আপনার কি মনে হয় নির্দিষ্ট কেউ আপনাকে এড়িয়ে চলছে বা দূরে সরিয়ে রাখছে? "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "দূরে সরিয়ে রাখছে তা নয়, তবে আমার মনে হয়েছে সমস্যা বা ব্যক্তিগত বিষয়গুলো নিয়ে আলোচনা করার মতো আমাকে যথেষ্ট ঘনিষ্ঠ মনে করা হয়নি"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আসলে, বিশ্বাস সময়ের সাথে সাথে আসে... এটি হঠাৎ করেই তৈরি হতে পারে না। সম্ভবত আপনি নিজের প্রতি একটু বেশিই কঠোর হচ্ছেন? "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আগে আমাকে বিশ্বাস করা হতো, কিন্তু এখন আর করা হয় না"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "কখনও কখনও আপনি এমন কিছু মানুষের মুখোমুখি হন যারা নিজেরাই বিশ্বস্ত নয়। এই ধরনের নেতিবাচক বা ক্ষতিকর মানুষদের এড়িয়ে চলাই সবচেয়ে ভালো! "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "দয়া করে জানবেন যে এটি আপনার সমস্যা নয়, এটি তাদের সমস্যা! "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমি সেটি বুঝতে পারছি। কিন্তু আমি তখন একা বোধ করি যখন সেই বন্ধুটি বলে যে 'আমার কিছু সমস্যা হচ্ছে, আমি কারও সাথে এটি আলোচনা করতে চাই না', অথচ অন্য বন্ধুরা সেই সমস্যার কথা জানতে পারে এবং সাধারণ কথাবার্তার মধ্যে আমাকে তা জানায়। আমার মনে হয় যখন অন্য কেউ বিষয়টি জানতে পেরেছে, তখন আমার সাথে কেন এটি আলোচনা করা হলো না"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "পরচর্চা বা গসিপের শিকার হলে কেমন লাগে তা আমি বুঝি—আমার সাথেও একাধিকবার এমনটা ঘটেছে এবং এটি সত্যিই খুব কষ্টদায়ক। "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার সেই বন্ধুর জন্য খারাপ লাগছে যে যাদের সে বিশ্বাস করেছিল তারা তা ধরে রাখতে পারেনি, এবং একই সাথে আমার খারাপ লাগছে যে আমাকে বিশ্বস্ত মনে করা হয়নি, অথচ আমি বিষয়টি নিজের মধ্যেই গোপন রাখতাম"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "হয়তো আপনার নতুন কিছু বন্ধু বানানোর কথা ভাবা উচিত? এমন কোনো ক্লাব বা সংগঠন কি আছে যেখানে আপনি যোগ দিতে পারেন? "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আপনার পরামর্শটি আমার ভালো লেগেছে। আমি প্রার্থনা করা শুরু করেছি এবং আমার আগ্রহের বিষয়গুলো নিয়ে আরও পড়াশোনা করছি, যা নিশ্চিতভাবেই আমাকে উৎসাহিত করেছে এবং এখন আমি সেই বন্ধুকে সে যেমন আছে তেমনই মেনে নিয়েছি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এটি নিয়ে আর খুব বেশি ভাবছি না, বিষয়টিকে স্বাভাবিকভাবে মেনে নিয়ে নিজের দৈনন্দিন রুটিন অনুযায়ী এগিয়ে যাচ্ছি"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "এটি সত্যিই খুব ইতিবাচক একটি দৃষ্টিভঙ্গি মনে হচ্ছে। আসন্ন বছরে নিজের জীবনে কোনো নেতিবাচকতা আসতে না দেওয়ার একটি সংকল্প করুন না কেন? "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আশা করি আমি আপনাকে কিছুটা সাহায্য করতে পেরেছি এবং আপনার মনকে শান্ত করতে পেরেছি। আপনাকে নতুন বছরের অনেক শুভেচ্ছা! "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "হ্যাঁ, আপনাকে ধন্যবাদ এবং আপনাকেও নতুন বছরের শুভেচ্ছা"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "বিদায় এবং কথা বলার জন্য ধন্যবাদ "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "বিদায় এবং আমার কথা শোনার জন্য ধন্যবাদ"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "(আপনাকে আপনার দিক থেকে চ্যাটটি শেষ করতে হবে কারণ আমি আমার দিক থেকে তা করতে পারছি না :)) "
+      }
+    ],
+    "seeker_question1": "আমার কথা শোনা হয়েছে",
+    "seeker_question2": "এই মুহূর্তে বিশেষ কিছু নেই",
+    "supporter_question1": "",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "উদ্বেগ",
+    "problem_type": "চাকরি সংকট",
+    "situation": "অনলাইন চাকরি খুঁজছি। একটি খুঁজে পাওয়া কঠিন। খুব প্রতিযোগিতাপূর্ণ",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "3",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "2"
+      },
+      "supporter": {
+        "relevance": "3"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আমি আপনাকে কীভাবে সাহায্য করতে পারি?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যালো\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনি কি আছেন??"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "যদি"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আপনার কোনো আপত্তি না থাকলে আমি আপনাকে কয়েকটি প্রশ্ন করতে চাই\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "ওটা কী ছিল? "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি একটি পার্ট-টাইম বা সাইড জব খুঁজছি\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "খুব সহজে খুঁজে পাচ্ছি না\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আমি আপনাকে এই বিষয়ে কিছু ধারণা দিতে পারি... অবশ্যই।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "সুন্দর\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "উবার, লিফট, ডোরড্যাশ এবং অ্যামাজন ডেলিভারি সার্ভিসগুলো ভালো।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি এমন কিছু কাজ পেয়েছি যা ঘণ্টায় ৩ ডলারের মতো দেয়, কিন্তু ভালো কোনো কাজ পাচ্ছি না\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, আসলে আমি বাইরে যেতে ভয় পাই\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "অ্যামাজন ভালো টাকা দেয়।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "আমি যদি পারতাম\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "বাইরে যেতে ভয় পাবেন না।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "তারা কত টাকা দেয়?\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "অ্যামাজন\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "ফ্রিল্যান্স লেখকদের জন্য প্রচুর কাজ রয়েছে। ফ্রিল্যান্স কনটেন্ট রাইটিংয়ের কথা ভেবে দেখতে পারেন।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "বাড়ি থেকে কাজ করার (Work From Home) বিকল্প হিসেবে আপনি কী করতে চান?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "2"
+        },
+        "content": "নিশ্চয়ই, আমি দেখব। তবে এটি আমার মাতৃভাষায় হতে হবে, আমার মনে হয় না তারা আমাকে ইংরেজি লেখক হিসেবে নিয়োগ দেবে\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার মাতৃভাষা কী?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "যেকোনো কিছু, তবে খুব বেশি মানসিক চাপযুক্ত হওয়া যাবে না\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আপনি কি মূলত আমেরিকার বাসিন্দা নন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "আমি আমেরিকারই, কিন্তু আমি নিখুঁতভাবে ইংরেজি বলতে পারি না\n\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি যদি পারতাম, তবে লেখালেখি এমন একটি বিষয় যা আমি পছন্দ করি\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আচ্ছা, যারা ইংরেজিভাষী তাদের জন্য আপনি আপনার ভাষার একজন টিউটর বা শিক্ষক হতে পারেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি একটি বই লিখতে পারি এবং নিজে নিজেই তা প্রকাশ (self-publish) করতে পারি\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ! আমি এটা নিয়ে ভেবেছিলাম, আমার এটা করা উচিত\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আমার বিশ্বাস এটি একটি নতুন ক্যারিয়ারের বিকল্প হতে পারে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "হ্যাঁ\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আমি নিশ্চিতভাবে বিশ্বাস করি যে আপনি সফল হতে পারবেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "ধন্যবাদ, আমি কিছু মাধ্যম বা প্ল্যাটফর্ম খোঁজার চেষ্টা করব\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "সফলতার চাবিকাঠি হলো ইতিবাচক দৃষ্টিভঙ্গি রাখা এবং নিজের ওপর বিশ্বাস রাখা।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "অথবা আমি নিজেই সেটা শুরু করতে পারি"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "চমৎকার। আমি এটি মনে রাখব এবং আমি আপনার সাথে একমত\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমি অনেক আগে সেলফ-পাবলিশিং বা নিজে বই প্রকাশের পথ বেছে নিয়েছিলাম। এটি আমাকে সফল হওয়ার আত্মবিশ্বাস দিয়েছিল।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "ওহ সুন্দর! তখন কি নিজে বই প্রকাশ করা কঠিন ছিল?\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আমার মনে হয় আপনিও আমার মতোই সফলতা পেতে পারেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "ওয়াও চমৎকার......\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "উপার্জনের নতুন মাধ্যমে আপনি সফল হতে পারবেন—এই দৃঢ় আত্মবিশ্বাসই হলো আসল চাবিকাঠি!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার এক বন্ধু পারমাণবিক বোমা নিয়ে একটি বই প্রকাশ করেছিল, এবং আমি শুনেছি নিজে বই প্রকাশ করা কিছুটা জটিল\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, সত্যিই তাই\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কি অন্য কোনো বিষয়ে সাহায্যের প্রয়োজন আছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "আমি ঠিক আছি। আপনার সাহায্যের জন্য ধন্যবাদ\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আপনার ক্রিসমাস শুভ হোক\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "ঠিক আছে। থেরাপি সেশনটি শেষ করতে কেবল লাল রঙের 'ফাইনালাইজ অ্যান্ড এক্সিট' বাটনে ক্লিক করুন।"
+      }
+    ],
+    "seeker_question1": "কোনো সমস্যা নেই",
+    "seeker_question2": "না",
+    "supporter_question1": "আমার মনে হয় স্পিকারের উচিত ছিল সে কেন কাজ খুঁজে পাচ্ছে না তা নিয়ে কথা বলা। সিকারের সমস্যার পেছনের কারণগুলো আমার কাছে দুর্বল মনে হয়েছে। এটিকে একটি খোঁড়া অজুহাতের মতো মনে হয়েছে।",
+    "supporter_question2": "কিছুই না"
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "ভয়",
+    "problem_type": "চাকরি সংকট",
+    "situation": "চাকরি হারানোর ভয়",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "5",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "4"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "হ্যালো, কেমন আছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হাই, আমি একদমই ভালো নেই"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "কী হয়েছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "এই মহামারি আমাদের অনেক সমস্যা এবং উদ্বেগের কারণ হয়ে দাঁড়িয়েছে"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "তা তো বটেই... কোভিড নিয়ে আপনার কী অবস্থা বা কী পরিস্থিতি চলছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "প্রথমত, গত তিন মাস আগে আমার কোম্পানি আমার বেতন কমিয়ে দিয়েছে এবং সামনের মাসে তারা কিছু কর্মী ছাঁটাই (layoff) করার পরিকল্পনা করছে"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "এটি মোটেও ভালো নয়, আপনিও কি তাদের মধ্যে একজন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "কতটা ঝামেলার একটা বছর!"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "এটি সত্যিই একটি ঝামেলার বছর ছিল\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমরা কেবল আশা করতে পারি যে এই বছরটি আরও ভালো হবে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কী ধরনের শখ আছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "এটি এখন কোনো শখের বিষয় নয়, এটি আমার জীবন এবং ভবিষ্যৎ নিয়ে, এখানে আমার চাকরি ঝুঁকির মধ্যে রয়েছে, আমি জানি না কী করব"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "তারা কি আপনাকে বলেছে যে আপনি চাকরি হারাচ্ছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "কোম্পানির সবাই এটি নিয়ে কথা বলছে"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আমি কেবল এটি বোঝার চেষ্টা করছি যে আপনার ঠিক কী বিষয়ে সাহায্য প্রয়োজন.. আপনি কি আপনার চাকরি হারিয়েছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আমরা সবাই ভয় পাচ্ছি"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "কারণ অন্য একটি চাকরি খুঁজে পাওয়া সহজ নয়"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আমি আপনার সাথে একমত, আমাদের সবাইকে কোনো না কোনো ত্যাগ স্বীকার করতে হয়েছে। আপনি ঠিক বলেছেন, এই মুহূর্তে কাজ খুঁজে পাওয়া সত্যিই কঠিন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "মহামারির কারণে অনেক সমস্যা হচ্ছে এবং এর দ্বিতীয় ঢেউ আসছে"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "পরিস্থিতি যদি শেষ পর্যন্ত ওই পর্যায়ে পৌঁছায়, তবে অন্তত আপনি বেকারত্ব ভাতার (unemployment benefits) বিষয়টি খোঁজখবর নিয়ে দেখতে পারেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "সেটি আসলে কী ঘটতে যাচ্ছে আমরা জানি না"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "সেটাই ভয়ের বিষয়। এটি আবার ফিরে আসতে পারে এবং প্রথমবারের চেয়েও বেশি ক্ষতি করতে পারে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এটি সত্যিই খুব মারাত্মক,"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "সাধারণ হাত ধোয়া এবং স্বাস্থ্যবিধি মেনে চলা ছাড়া, আমার মনে হয় না আমরা এর জন্য আর কোনো প্রস্তুতি নিতে পারব। আমার মনে হয় এই মুহূর্তে, ভ্যাকসিন কাজ করবে কি করবে না তা তারা নিশ্চিত করার আগ পর্যন্ত আমরা হয়তো এতে আক্রান্ত হব অথবা হব না।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "এটি খুবই ভীতিজনক একটি বিষয়"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "মানুষ দিন দিন চাকরি হারাচ্ছে,"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আপনি কি বেকারত্ব ভাতার বিষয়টি খোঁজ নিয়ে দেখেছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি প্রার্থনা করি যে ভ্যাকসিনটি অনুমোদিত হলে যেন কাজ করে"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি এই কোম্পানি থেকে ছাঁটাই হওয়ার আগেই এখন অন্য একটি চাকরি খোঁজার চেষ্টা করছি"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "বন্ধু, আমি আপনার সাথেই আছি, আমি আশা করি এটি আমাদের পৃথিবী থেকে এই রোগটিকে পুরোপুরি দূর করবে। প্রথম এবং দ্বিতীয় দুই সংস্করণই।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "সেটি বেশ বুদ্ধিমত্তার কাজ\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আপনার সাথে চ্যাট করে ভালো লাগল, এখন যাওয়ার সময় হয়েছে, ধন্যবাদ"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আপাতত বিদায়"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "কোনো সমস্যা নেই, আশা করি আপনার বাকি দিনটি ভালো কাটবে"
+      }
+    ],
+    "seeker_question1": "একদমই না",
+    "seeker_question2": "কিছুই না",
+    "supporter_question1": "এটি একটি বৈধ কাজ ছিল",
+    "supporter_question2": "সময়সীমা।"
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "দুঃখ",
+    "problem_type": "সঙ্গীর সাথে বিচ্ছেদ",
+    "situation": "আমি আমার বান্ধবীর সাথে ব্রেকআপ করেছি এবং এটি নিয়ে আমি দুঃখিত",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "4",
+        "empathy": "5",
+        "relevance": "4",
+        "final_emotion_intensity": "3"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "হ্যালো, এই মুহূর্তে আপনার জীবন কেমন চলছে? আপনি কি কোনো বিষয়ে কথা বলতে চান? "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি মোটামুটি ঠিক আছি। আমি মাত্রই আমার বান্ধবীর সাথে ব্রেকআপ করেছি এবং এটি নিয়ে আমি দুঃখিত"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "তাহলে আমি যা বুঝতে পারছি, এই মুহূর্তে আপনার মোটেও ভালো লাগছে না? "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "হ্যাঁ, একদম তাই।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কি মনে হচ্ছে এই পরিস্থিতি নিয়ে কথা বলার মতো আপনার কেউ নেই? আমি আনন্দের সাথে আপনার কথা শুনব। "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি খুব দুঃখিত এবং কেবল ভাবছি এমনটা কেন হলো!!!"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আপনার কি কোনো ধারণাই নেই? আপনার কি মনে হয় আপনি কোনো ভুল করেছেন বা হয়তো সে আপনার সাথে বিশ্বাসঘাতকতা করছিল? "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আমাদের মধ্যে সাধারণ মতানৈক্য ছিল এবং আমরা দুজনেই ক্রমাগত ঝগড়া করে যাচ্ছিলাম.. এখন আমি এটি কোনোভাবেই মেনে নিতে পারছি সাস।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কি মনে হয় যে আপনাদের দুজনের আবার একসাথে হওয়ার কোনো আশা আছে? "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি জানি না। আমার কী করা উচিত?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আচ্ছা, আমার মনে হয় আপনার তাকে কিছুটা সময় ও মানসিক দূরত্ব (space) দেওয়া উচিত, তবে মানুষ অনেক সময় আলাদা হয়ে যাওয়ার পরও আবার একসাথে ফিরে আসে"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আমি আপনার কথা বুঝতে পারছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "তা সত্ত্বেও আপনার সত্যিই তাকে কিছুটা সময় দেওয়া প্রয়োজন—তাকে অতিরিক্ত চাপ দেবেন না"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার কি তাকে সরাসরি ফোন করা উচিত? আমার কী বলা উচিত?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আমি হলে তাকে একটু সময় দিতাম। হয়তো দুই বা তিন দিন? তার নিজের মাথা ঠান্ডা করার জন্য কিছুটা সময় লাগতে পারে"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এটি একটি ভালো বুদ্ধি। আমার কী বলা উচিত? আমার কি ক্ষমা চাওয়া উচিত? "
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "সম্ভবত আপনি ফুল এবং একটি চিরকুট পাঠাতে পারেন যেখানে তাকে জিজ্ঞেস করতে পারেন যে সে কথা বলতে চায় কি না? "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এটি একটি ভালো ধারণা। আমি এটি চেষ্টা করে দেখব। আপনাকে ধন্যবাদ।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "সে হয়তো এটি ইতিবাচকভাবে গ্রহণ করতে পারে, কিন্তু যদি সে তা না করে, তবে আপনাকে মেনে নিতে হতে পারে যে সবকিছু শেষ হয়ে গেছে। "
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "ধন্যবাদ।"
+      }
+    ],
+    "seeker_question1": "না",
+    "seeker_question2": "না",
+    "supporter_question1": "",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "উদ্বেগ",
+    "problem_type": "চাকরি সংকট",
+    "situation": "আমি আমার চাকরি হারিয়েছি এবং এটি নিয়ে খুব দুশ্চিন্তায় আছি",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "4",
+        "empathy": "4",
+        "relevance": "4",
+        "final_emotion_intensity": "2"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "হ্যালো! কেমন আছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি ভালো আছি। আপনি কেমন আছেন?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আর শুভ বড়দিন!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "শুভ বড়দিন।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আমি ভালো আছি!"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "তাহলে আমি আপনাকে কীভাবে সাহায্য করতে পারি? আজ কি কোনো বিষয় নিয়ে চিন্তিত আছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আমি আমার চাকরি হারিয়েছি এবং এটি নিয়ে খুব দুশ্চিন্তায় আছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "ওহ, শুনে খুব খারাপ লাগল :(. এটি সত্যিই খুব ভয়ংকর"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ.."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আপনি কি নতুন চাকরি খোঁজা শুরু করেছেন?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আমি জানি এটি কঠিন, তবে আমি আপনাকে সামনে এগিয়ে যাওয়ার পরামর্শ দেব।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "এখনও শুরু করিনি। বুঝতে পারছি না কোথা থেকে শুরু করব।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আপনার কি কোনো লিঙ্কডইন (LinkedIn) অ্যাকাউন্ট আছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আছে, তবে আপ-টু-ডেট নয়।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আমি হলে সেটি তৈরি বা আপডেট করার মাধ্যমে শুরু করতাম।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "এভাবে আপনি নতুন নতুন চাকরি খুঁজে পেতে পারেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "অনুগ্রহ করে আমাকে লিঙ্কডইন সম্পর্কে আরও বলুন, এটি কীভাবে সাহায্য করতে পারে?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "লিঙ্কডইন আপনার প্রোফাইলের ওপর ভিত্তি করে বেশ কিছু চাকরির পরামর্শ দেয়।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "লিঙ্কডইনে আমার কী খোঁজা উচিত?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "একটি আপ-টু-ডেট প্রোফাইল আপনাকে এমন সব চাকরি দেখাবে যেগুলোতে আপনি আবেদন করতে পারেন এবং যেগুলো আপনার দক্ষতার সাথে মিলে যায়।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আমি হলে মেনু থেকে \"jobs\" বিভাগে যেতাম এবং দেখতাম কোন চাকরিগুলো আপনার সবচেয়ে বেশি পছন্দ হয়।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "এটি একটু অস্পষ্ট শোনাতে পারে, তবে শুধু খোঁজা শুরু করুন এবং আপনি মানানসই কিছু পেয়ে যাবেন!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "প্রথমে আমাকে আমার জীবনবৃত্তান্ত (resume) আপডেট করতে হবে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "এটি শুরু করার জন্য বেশ ভালো একটি পদক্ষেপ! আমার বিশ্বাস লিঙ্কডইন জীবনবৃত্তান্তের ফরম্যাটের বিষয়েও পরামর্শ দিতে পারে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আপনার পরামর্শের জন্য ধন্যবাদ।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আপনার শুরুটা বেশ ভালো হতে যাচ্ছে বলে মনে হচ্ছে। আপনি কি অন্য কোনো বিষয়ে কথা বলতে চান?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "এইটুকুই.. ধন্যবাদ।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আপনার দিনটি শুভ হোক!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "যদিও আমি আপনার কাছ থেকে পরামর্শ পেয়েছি, মনে হচ্ছে চ্যাটটি বন্ধ করার জন্য আমাকে আরও ৪ মিনিট অপেক্ষা করতে হবে। দয়া করে আমার সাথে থাকুন।"
+      }
+    ],
+    "seeker_question1": "না",
+    "seeker_question2": "না",
+    "supporter_question1": "প্রযোজ্য নয়",
+    "supporter_question2": "প্রযোজ্য নয়"
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "উদ্বেগ",
+    "problem_type": "চাকরি সংকট",
+    "situation": "কেমোথেরাপি নিচ্ছেন এমন একজনের সাথে থাকার কারণে গত ফেব্রুয়ারিতে আমাকে চাকরি ছেড়ে দিতে হয়েছিল। আমার শহরে খুচরা বিক্রির কাজ ছাড়া আর তেমন কোনো চাকরির বিকল্প নেই, তাই আমি অনলাইনে ঋণ পরিশোধের জন্য অর্থ উপার্জনের চেষ্টা করছি।",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "4",
+        "empathy": "4",
+        "relevance": "4",
+        "final_emotion_intensity": "2"
+      },
+      "supporter": {
+        "relevance": "4"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আজ আমি আপনাকে কীভাবে সাহায্য করতে পারি?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "আজ বড়দিন, তাই আমি আশা করি একাকী মানুষদের জন্য সাহায্যের ব্যবস্থা থাকবে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "হ্যাঁ, ন্যাশভিলের খবরে আজ আমি বেশ চাপে আছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "ন্যাশভিলের খবর?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "এর কোন বিষয়টি আপনাকে উদ্বিগ্ন করছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "গতকাল আমাকে আমার পরিবারের সাথে বড়দিনের আয়োজনও মিস করতে হয়েছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আপনি কি পুরোপুরি মানসিক চাপে আছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "ওহ হ্যাঁ, আজ সকালে টেনেসি রাজ্যের ন্যাশভিলে একটি বোমা বিস্ফোরিত হয়েছে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "প্রচণ্ড মানসিক চাপে আছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আমি বুঝতে পারছি যে প্রিয়জনদের সাথে দেখা করতে না পারায় আপনার খারাপ লাগছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আপনার কাছে কি ব্যবহার করার মতো কোনো ট্রেডমিল আছে বা আজ কি আপনি কোনো জিমে যেতে পারবেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আসলে আমার বাড়িতেই একটি পূর্ণাঙ্গ জিম আছে। তবে এটি ব্যবহার করার মতো যথেষ্ট অনুপ্রেরণা আমি কখনই পাই না, হাহাহা।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমি যখন চাপে থাকি, তখন সাধারণত ৩০ থেকে ৪৫ মিনিট জোরে হাঁটি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, কিছু ব্যায়াম আমাকে অন্যান্য বিষয় থেকে মন সরিয়ে নিতে সাহায্য করতে পারে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "লোকে বলে যে মানসিক চাপ কমানোর জন্য তাজা বাতাস (fresh air) সত্যিই খুব ভালো। আপনার আশেপাশে কি কোনো আকুপাংচারিস্ট বা হলিস্টিক নিরাময়কারী (holistic healers) আছেন?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমি প্রায় প্রতিদিনই হাঁটার এবং তাজা বাতাস নেওয়ার চেষ্টা করি। আমি পার্ক এবং হাঁটার রাস্তা খুব পছন্দ করি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "আছেন, তবে আমি বিকল্প চিকিৎসায় তেমন আগ্রহী নই। তবে আমি কিছুক্ষণ বাইরে থেকে আরাম করেছি। আজ এখানে বেশ বরফ পড়ছে এবং জায়গাটা সুন্দর দেখাচ্ছে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "রাতে এখানে প্রায় এক ইঞ্চি বরফ পড়েছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "বরফ সরানো (shoveling) শরীরের উত্তেজনা কমানোর জন্য ভালো হতে পারে। এটি স্বল্প সময়ের জন্য হলেও ব্যায়ামের কাজ করে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এটি আসলে একটি ভালো বুদ্ধি, আমি সিঁড়ি দিয়ে ওঠা-নামা করার সময় বরফের ওপর দিয়ে হাঁটছিলাম, চাইলে একটা রাস্তাও পরিষ্কার করতে পারি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমি অল্প বিস্তর বরফ সরাতে পছন্দ করি, তবে এটি ঠিকমতো করতে হয়, যাতে পিঠে কোনো আঘাত না লাগে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনি কি বরফ পছন্দ করেন? বড়দিনের আগের সন্ধ্যায় আমাদের এখানে কয়েক ঘণ্টা ধরে প্রবল বৃষ্টি হয়েছে। আমি চেয়েছিলাম একটু বরফ পড়ুক যাতে চারপাশটা সুন্দর দেখায়।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আমার পরামর্শগুলো কি কোনোভাবে সাহায্য করছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আমি বরফ খুব ভালোবাসি, শীতকাল আমার সবচেয়ে প্রিয় ঋতু। গরম আবহাওয়া আমার একদম ভালো লাগে না। বড়দিনের আগের সন্ধ্যায় এখানে প্রচুর বৃষ্টি শুরু হয়েছিল, কিন্তু রাতে তাপমাত্রা ১৫ ডিগ্রি ফারেনহাইটে নেমে যায়, ফলে বেশ ভারী বরফ পড়তে শুরু করে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ করছে, যে বিষয়গুলো নিয়ে আমি চাপে ছিলাম তা থেকে মন সরিয়ে নিতে সাহায্য করেছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আচ্ছা, এমন কিছু ধূপদানি আছে যেগুলো জ্বালিয়ে চোখ বন্ধ করে আপনি ধ্যানের কাঠিগুলোর আভা অনুভব করতে পারেন। নির্দিষ্ট কিছু সুগন্ধ মানসিক চাপ কমাতে পারে। আপনার বাড়িতে কি এমন কিছু আছে যা আপনি জ্বালাতে পারেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার কাছে কিছু ধূপকাঠি আছে, তবে আমি সাধারণত পালো স্যান্টো (palo santo) কাঠি ব্যবহার করি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আমি পালো স্যান্টো কাঠি এবং রোজমেরি বা ল্যাভেন্ডার তেলের বিষয়ে ভালো কথা শুনেছি, যেগুলো মন শান্ত করতে এবং আরাম দিতে পারে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আমার মনে হয় আমার কাছে কিছু রোজমেরি এসেনশিয়াল অয়েল আছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কাছে কি এমন কোনো মিউজিক বা সাউন্ড ইফেক্ট আছে যা শুনে আপনি আরাম বোধ করতে পারেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ আছে, বর্তমানে আমি কিছু মিউজিক শুনছি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি মিউজিক খুব পছন্দ করি, আমি প্রায় সবসময়ই কিছু না কিছু শুনতে থাকি, হাহাহা।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আমি সবসময় রোজমেরি তেলের পরামর্শ দিই। এর একটু সুবাস নিলে তা স্নায়ুকে শান্ত করতে পারে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "জঙ্গলে বয়ে চলা স্রোতস্বিনী বা ডলফিনের যোগাযোগের মতো শান্ত সাউন্ড ইফেক্ট শোনা আপনার মন ভালো করে দিতে পারে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "বলা হয়ে থাকে যে, মনের এলোমেলো চিন্তা থামিয়ে স্থির গতিতে শ্বাস নেওয়াটা সবচেয়ে ভালো।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "আমি অবশ্যই রোজমেরি তেল ব্যবহার করে দেখব।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কি আর কোনো পরামর্শের প্রয়োজন আছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "না, আমার মনে হয় এতেই কাজ হয়েছে। আমি কয়েক মিনিটের মধ্যেই এগুলো চেষ্টা করে দেখব, ধন্যবাদ :)"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আপনি আপনার চিন্তাভাবনা এবং গভীর অনুভূতিগুলো আমাকে খুব ভালোভাবে বুঝিয়ে বলেছেন।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "ঠিক আছে। আপনি এখন বেশ শান্ত বোধ করছেন, এটি খুবই ভালো।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আপনার উত্তর থেকে আমি বুঝতে পারছি যে আমার পরামর্শগুলো কাজে লেগেছে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "হ্যাঁ, আমি এখন অনেক বেশি শান্ত বোধ করছি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "সব সাহায্যের জন্য আপনাকে ধন্যবাদ।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "শুনে মনে হচ্ছে আপনি সত্যিই এখন বেশ ফুরফুরে এবং আনন্দিত।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "সেশনটি শেষ করতে আপনি লাল ফিনিশ (finish) এবং এক্সিট (exit) বোতামে ক্লিক করতে পারেন। :)"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "আপনার কাছে কি এটি নেই?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "ঠিক বলেছেন।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "আজ বড়দিন, তাই বাইরে সাবধানে থাকবেন।"
+      }
+    ],
+    "seeker_question1": "কখন চ্যাট শেষ করতে হবে তা নিয়ে আমি অনিশ্চিত ছিলাম",
+    "seeker_question2": "এটি বেশ ভালো বলে মনে হয়েছে",
+    "supporter_question1": "আমার মনে হয় এটি ভালো হয়েছে এবং একদম 'যথাযথ' ছিল।",
+    "supporter_question2": "তেমন কিছু না"
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "উদ্বেগ",
+    "problem_type": "চাকরি সংকট",
+    "situation": "এই মহামারীর সময় আমি আরও অনলাইন চাকরি চাই, কিন্তু তা পাওয়া বেশ কঠিন।",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "4",
+        "empathy": "4",
+        "relevance": "4",
+        "final_emotion_intensity": "2"
+      },
+      "supporter": {
+        "relevance": "4"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "হ্যালো, আপনার কেমন লাগছে? আপনি কি কোনো বিষয় নিয়ে ভাবছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যালো"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আজ আপনি আমার সাথে কী নিয়ে কথা বলতে চান?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "হ্যাঁ, আমি আরও কিছু চাকরি খুঁজতে চাই, আশা করছি অনলাইনে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আপনার কাছে কি কোনো পরামর্শ আছে?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "দুর্ভাগ্যবশত, আমার মনে হয় এখন অনেকেই অনলাইনে কাজ খোঁজার চেষ্টা করছেন কারণ মানুষ বাইরে যেতে খুব ভয় পাচ্ছে - আমি জানি যে আমিও পাচ্ছি!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হাহাহা, আমার অবস্থাও একই।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "সাইড জব হিসেবে এমটার্ক (Mturk) আমাকে বেশ সাহায্য করে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "হ্যাঁ, এটি বেশ ভালো হতে পারে। আপনি কি অন্য কোনো ধরনের গিগ ওয়ার্ক (gig work) করার চেষ্টা করেছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "শুনলাম অবশেষে অ্যান্টার্কটিকাতেও করোনাভাইরাস পৌঁছেছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "ওহ, এটি সত্যিই খুব খারাপ। অন্তত সেখানে খুব বেশি মানুষ নেই.. আমার মনে হয় সেখানে মূলত গবেষকরাই থাকেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি সেগুলোর জন্য আবেদন করেছি কিন্তু কখনোই পাইনি। তাই আমি ইউটিউবার (YouTuber) হওয়ার চেষ্টা করছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "তাহলে আপনার মনে হচ্ছে যে ভ্লগিং (vlogging) করে হয়তো আপনি কিছু টাকা আয় করতে পারবেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "হ্যাঁ, কে আর অ্যান্টার্কটিকায় থাকতে চায়, হাহাহা।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আমার মনে হয় সেখানে ঘুরতে যাওয়াটা মজার হবে, তবে খুব বেশি দিনের জন্য নয়।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হতে পারে, কিন্তু সমস্যা হলো আমি নিজেকে অনলাইনে দেখাতে চাই না। পুরো মুখ ঢাকা মাস্ক পরে ইউটিউব করার বিষয়ে আপনার কী মতামত?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আচ্ছা, আপনি চাইলে ফেস-মাস্ক পরার প্রয়োজনীয়তা নিয়ে ভ্লগ করতে পারেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমার মনে হয় এটি একটি দারুণ বুদ্ধি। আংশিক মাস্কের চেয়ে পুরো মুখের মাস্ক ভালো।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "হ্যাঁ, ঠিক তাই! তবে খেয়াল রাখবেন, অনেকেই ইউটিউব থেকে টাকা আয় করার চেষ্টা করছে - এর জন্য আপনার ভাগ্য ভালো হতে হবে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "ঠিক বলেছেন, আপনার পরামর্শের জন্য ধন্যবাদ। টাকা আয় করার জন্য তারা কত পাগলামিই না করে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "এটি আমাদের সবার জন্যই একটি কঠিন সময় :) আমার মনে হয়, খাবার জোগাড় করার জন্য মানুষের যা করা প্রয়োজন তারা তাই করছে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আমিও তা-ই মনে করি, হতাশায় মানুষ পাগল হয়ে যায়।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আমি আশাবাদী যে ভ্যাকসিন তৈরি হওয়ার কারণে, শিগগিরই পরিস্থিতির উন্নতি হতে শুরু করবে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "তবে সেই অবস্থায় যাওয়ার আগেই আমি প্রস্তুত থাকতে চাই।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমিও তা-ই আশা করি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "নতুন বছরে এমন কিছুর কথা কি আপনি ভাবতে পারেন যার জন্য অপেক্ষা করা যায় এবং যা আপনার মনকে কিছুটা ভালো করবে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "ওহ হ্যাঁ, শেয়ারের দাম হয়তো বাড়তেই থাকবে। যেমন টেসলা (Tesla), যা আমাকে আনন্দ দেয়।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আচ্ছা, হয়তো বিশ্বের কিছু অংশে প্রশাসনের পরিবর্তন কিছুটা সাহায্য করবে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আপনি কী বোঝাতে চাইছেন?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আমি বলতে চাইছি যে, রাজনৈতিক পরিবর্তন মানুষকে সাহায্য করতে পারে এবং তাদের নতুন করে আশা জোগাতে পারে। অথবা, হতাশও করতে পারে :)"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "ওহ হ্যাঁ।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি আশা করছি তারা আমাদের ৬০০ ডলার করে দেবে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "যারা কষ্টে আছে তাদের জন্য এটি অনেক বড় একটি সাহায্য হবে!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এই মুহূর্তে আমি খুব বেশি হতাশ নই এবং বড়দিনের গান শুনে আনন্দ উপভোগ করতে পারছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "বছরের এই সময়টায় বড়দিন বেশ ভালো লাগে, তবে এটি ব্যয়বহুলও। আপনার কি মনে হয় যে এটি আপনার আর্থিক কষ্ট বাড়িয়ে দিয়েছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "এটি একটি সুন্দর সময়। না তেমন নয়, কারণ আমি দামি কোনো উপহার ইত্যাদি কিনিনি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "এটি শুনে ভালো লাগল.. অনেকেই মনে করে যে তাদের অনেক বেশি খরচ করতে হবে। যাই হোক, আমি আশা করি আপনার দিনটি সুন্দর কেটেছে এবং আপনার জন্য শুভকামনা।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আচ্ছা, আপনার পরামর্শের জন্য ধন্যবাদ। আপনার সাথে কথা বলে খুব ভালো লাগল। শুভ বড়দিন।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আপনাকেও!"
+      }
+    ],
+    "seeker_question1": "না",
+    "seeker_question2": "না",
+    "supporter_question1": "",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "বিষণ্ণতা",
+    "problem_type": "চলমান বিষণ্ণতা",
+    "situation": "আমি খুব বিষণ্ণ। আমি সবসময়ই এমন ছিলাম। কীভাবে এটি ঠিক করতে হবে আমি জানি না। আমি থেরাপি এবং ওষুধ চেষ্টা করেছি কিন্তু মনে হচ্ছে সেগুলো কাজ করে না।",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "5",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "হ্যালো! কী সমস্যা বলে মনে হচ্ছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি বিষণ্ণ...\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "এটি কবে থেকে শুরু হয়েছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "যতদূর আমার মনে পড়ে, তখন থেকেই। আমি সবসময়ই বিষণ্ণ ছিলাম।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "এটি সত্যিই খুব কষ্টের বলে মনে হচ্ছে। বিষণ্ণতা সামলানো বেশ কঠিন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি জানি। আমার মনে হয় আমি সবকিছু চেষ্টা করেছি কিন্তু কোনো কিছুতেই কাজ হয় না।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আমি বুঝতে পারছি যে এত চেষ্টা করার পরও কাজ না হওয়ায় আপনার ভেতরে অনেক হতাশা জমে আছে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "হ্যাঁ। আমি আগে খুব রেগে থাকতাম কিন্তু সেই রাগ এখন কষ্টে পরিণত হয়েছে..."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "অনেক গবেষণায় দেখা গেছে যে রাগের অনুভূতি বিষণ্ণতায় রূপ নিতে পারে, এটি অস্বাভাবিক কিছু নয়।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি এটি আগে জানতাম না। আমি যখন ছোট ছিলাম, তখন আমি খুব রাগী ছিলাম কিন্তু সেটি নিজের ভেতরেই চেপে রাখতাম।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আমি বুঝতে পারছি এটি আপনার জন্য কতটা কঠিন ছিল, বিশেষ করে যেহেতু এটি এত দীর্ঘ সময় ধরে চলছে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "হ্যাঁ, তাই। আমি এখনও আশা করছি যে এর কোনো প্রতিকার আছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কী মনে হয়, আপনি কেন রেগে থাকতেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার বাবা-মায়ের বিবাহবিচ্ছেদ হয়েছিল এবং এটি আমার শৈশব নষ্ট করে দিয়েছিল।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "ওহ, এটি সত্যিই খুব বেদনাদায়ক, তবে আমি জানি আপনি এখন আপনার সেরা চেষ্টাটি করছেন।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমি যখন ছোট ছিলাম তখন আমারও বাবা-মায়ের বিবাহবিচ্ছেদ হয়েছিল, তবে এখন আমি বুঝতে পারি যে এটি আমাকে একজন প্রাপ্তবয়স্ক হিসেবে আরও শক্তিশালী হওয়ার সুযোগ দিয়েছে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "এটি ভাবার একটি ভালো উপায়।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আপনি কি কোনো পিয়ার সাপোর্ট গ্রুপে (peer support group) অংশগ্রহণ করেন? সেগুলো সত্যিই এই ধরনের আবেগ প্রকাশ করতে সাহায্য করতে পারে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "না, আমি করি না। আমি এটি নিয়ে ভেবে দেখতে পারি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "অবশ্যই, স্থানীয় মিটিংয়ের বিষয়ে অনলাইনে অনেক তথ্য পাওয়া যায়। হয়তো এসিএ (ACA)-এর মতো কোনো গ্রুপ আপনার ভেতরের সত্তার সাথে সংযোগ স্থাপন করতে আপনাকে সত্যিই সাহায্য করতে পারে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "এটি একটি ভালো ধারণা বলে মনে হচ্ছে। আপনাকে অনেক ধন্যবাদ।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "অবশ্যই!"
+      }
+    ],
+    "seeker_question1": "না।",
+    "seeker_question2": "এটি দারুণ ছিল।",
+    "supporter_question1": "টিউটোরিয়ালের ভাষা কিছুটা অসামঞ্জস্যপূর্ণ ছিল এবং কিছু ব্যাকরণগত ভুল ছিল, তবে এটি ঠিক ছিল!",
+    "supporter_question2": "আপনার সংজ্ঞায় সামঞ্জস্য খুঁজুন। টিউটোরিয়ালটি একটু কঠিন ছিল, তবে আপনি যদি মনোযোগ দিয়ে দেখেন তবে এটি ঠিক ছিল।"
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "ভয়",
+    "problem_type": "চাকরি সংকট",
+    "situation": "আমার নিয়োগকর্তা আমার জন্য চিকিৎসার ক্ষেত্রে কোনো ছাড় না দেওয়ায় আমি চাকরি হারিয়েছি। আমার স্ত্রী এখন খণ্ডকালীন কাজ করে কিন্তু আমার মেয়ের দেখাশোনা করার পাশাপাশি কিছু টাকা আয়ের চেষ্টা করা দরকার।",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "5",
+        "empathy": "3",
+        "relevance": "2",
+        "final_emotion_intensity": "4"
+      },
+      "supporter": {
+        "relevance": "4"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "হ্যালো"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যালো।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনি কেমন আছেন? আপনার কী সমস্যা হচ্ছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আমার শারীরিক অবস্থার জন্য নিয়োগকর্তা কোনো ছাড় দিতে রাজি না হওয়ায় আমি চাকরি হারিয়েছি। আমি এখন বেকার। আমি জানি না কীভাবে আমি আমার বিলগুলো পরিশোধ করব।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আমি যদি ঠিক বুঝে থাকি, আপনার শারীরিক অবস্থার কারণে আপনাকে চাকরিচ্যুত করা হয়েছে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "না, আমি চাকরি ছেড়ে দিয়েছি কারণ তারা ছাড় দিতে অস্বীকৃতি জানিয়েছিল। তারা আমাকে যে কাজগুলো দিয়েছিল তা আমি শারীরিকভাবে পূরণ করতে পারছিলাম না।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "এটি সত্যিই খুব কঠিন, আমি আপনার ভয়টা বুঝতে পারছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "কোভিড-এর অর্থনৈতিক প্রভাবের কারণে আমিও আমার চাকরি হারিয়েছি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "হ্যাঁ, আমি বুঝতে পারছি না এখন কী করব। আমার স্ত্রী খণ্ডকালীন কাজ করে কিন্তু আমার আরও কিছু টাকার প্রয়োজন।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "আপনি কি আশেপাশের কোথাও অন্য কোনো চাকরি খোঁজার চেষ্টা করেছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, করেছি। আমার মনে হয় আমি কিছু একটা পাওয়ার কাছাকাছি চলে এসেছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "এটি তো একটি ভালো খবর।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "1"
+        },
+        "content": "হ্যাঁ, ধন্যবাদ। আমি শুধু আশা করছি যেন কাজটা হয়ে যায়..."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আপনি চাইলে অনলাইনেও খুঁজতে পারেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, আমি ইনডিড (Indeed) ব্যবহার করছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আপনাকে স্বাগতম। চাকরি পাওয়ার আগ পর্যন্ত আপনাকে কিছুদিন ধৈর্য ধরতে হবে। তবে আমি বিশ্বাস করি খুব শিগগিরই আপনি পেয়ে যাবেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "2"
+        },
+        "content": "ধন্যবাদ, আপনি কি চাকরি পেয়েছেন?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমিও একটি খণ্ডকালীন চাকরি পেয়েছি, এতে খুব বেশি টাকা দেয় না তবে কিছু না থাকার চেয়ে তো ভালো।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "তা ঠিক। এর পাশাপাশি গিগ (gigs) করে কিছু আয় করা যেতে পারে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "একদম ঠিক।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "1"
+        },
+        "content": "আপনার সাহায্যের জন্য ধন্যবাদ।"
+      }
+    ],
+    "seeker_question1": "না।",
+    "seeker_question2": "এটি ভালো ছিল।",
+    "supporter_question1": "তেমন কিছু না",
+    "supporter_question2": "তেমন কিছু না"
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "উদ্বেগ",
+    "problem_type": "চাকরি সংকট",
+    "situation": "কোভিডের সময় আমি আমার চাকরি হারিয়েছি এবং এই সময়ে চাকরি পাওয়া বেশ কঠিন।",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "4",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "2"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যালো\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "হ্যালো, আপনি এই মুহূর্তে কেমন বোধ করছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি বেশ উদ্বিগ্ন বোধ করছি।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "এটি শুনে আমি সত্যিই খুব দুঃখিত, আপনার কি মনে হয় নির্দিষ্ট কোনো কারণে এমনটা হচ্ছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "কোভিডের আগে আমি একজন বারটেন্ডার ছিলাম এবং আমি আমার চাকরি হারিয়েছি, যা আমার জন্য সত্যিই খুব কঠিন। এটি অনেক উদ্বেগের কারণ হয়ে দাঁড়িয়েছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "তাহলে আপনার মনে হচ্ছে যে এই ভাইরাসটি আপনার জীবনে বড় ধরনের প্রভাব ফেলেছে এবং আপনার পারিবারিক পরিস্থিতিতে সমস্যা তৈরি করছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, এটি তার একটি বড় অংশ।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আপনি কি এমন কোনো দাতব্য সংস্থার সাথে যোগাযোগ করার চেষ্টা করেছেন যারা আপনাকে আর্থিকভাবে সাহায্য করতে পারে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আসলে, আমি যতটা সম্ভব দাতব্য সংস্থাগুলোর কাছে যেতে চাই না। নিজের টাকা নিজে আয় করতে পারলে সেটি আমার জন্য অনেক বেশি উপকারী হবে।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "ইন্টারনেটেও টাকা আয় করার সুযোগ আছে.. হয়তো আপনি গিগ ওয়ার্ক (gig work) করার কথা ভাবতে পারেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এটি একটি ভালো ধারণা হতে পারে।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আপনার কাছে কি কোনো পরামর্শ আছে?\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমি জানি এটি কতটা কঠিন - আমাকেও অবৈতনিক ছুটিতে (furlough) পাঠানো হয়েছিল এবং আমি আর্থিক বিষয়গুলো বেশ কঠিন বলে মনে করছি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমার মনে হয় আমরা একই নৌকার যাত্রী।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "বর্তমানে অনেকেই সত্যিই খুব কষ্ট পাচ্ছে। এটি একটি অত্যন্ত ভয়ানক বছর ছিল, তবে আমি আশাবাদী যে নতুন বছরে পরিস্থিতির উন্নতি হবে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, আমিও।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "উদ্বেগ সামলানোর জন্য আপনার কাছে কি কোনো কৌশল আছে?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "আপনি কি কোনো থেরাপিস্ট দেখানোর কথা ভেবেছেন? কিছু দাতব্য সংস্থা আছে যারা বিনামূল্যে সেশনের প্রস্তাব দেয়।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "না, আমি সেই বিষয়ে খোঁজ নিইনি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "তবে এটি একটি ভালো ধারণা।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "তারা হয়তো আপনাকে শ্বাস-প্রশ্বাসের ব্যায়াম বা এই জাতীয় কিছু শেখাতে পারবে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "সেটি দারুণ হবে।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আপনাকে অনেক ধন্যবাদ!\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "মহামারীর আগেও কি সাধারণত আপনার উদ্বেগের সমস্যা ছিল?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "মাঝেমধ্যে, তবে মহামারী শুরু হওয়ার পর থেকে এটি আরও খারাপ হয়েছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "হ্যাঁ, আমি বুঝতে পারছি যে অনেকেই এমনটা অনুভব করে। চাকরি না থাকলে কি আপনার কাছে সবকিছু হতাশাজনক মনে হয়?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, মনে হয়। চাকরি না পাওয়া পর্যন্ত আমার মনে হয় না আমি স্বস্তিতে থাকতে পারব।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কি দেখাশোনা করার মতো পরিবার আছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমার কোনো সন্তান নেই, তবে আমি আমার সঙ্গীর সাথে থাকি, তাই এটি আমাদের সম্পর্কের ওপরও চাপ ফেলছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আপনার কি মনে হয় বেকার হওয়ার কারণে সে আপনাকে ছোট করে দেখে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, হয়তো সেটিও\nএর একটি অংশ।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আপনার এই পরিস্থিতির জন্য আমি সত্যিই খুব দুঃখিত এবং আমি সত্যিই চাই নতুন বছরে আপনার জন্য সবকিছু ভালো হোক। ২০২০ সালের জন্য আপনাকে এবং আপনার পরিবারকে শুভকামনা!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "ধন্যবাদ! আপনাকেও।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "কুইট (quit) করে জরিপে অংশ নিতে ভুলবেন না :)"
+      }
+    ],
+    "seeker_question1": "না",
+    "seeker_question2": "না",
+    "supporter_question1": "",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "পূর্ববর্তী অভিজ্ঞতা",
+    "emotion_type": "ভয়",
+    "problem_type": "একাডেমিক চাপ",
+    "situation": "এমন একটি ক্লাসে প্রায় ফেল করার উপক্রম, যার ওপর আমার ভবিষ্যৎ ক্যারিয়ার অনেকটাই নির্ভরশীল",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "2",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "হাই"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হাই, আপনি কেমন আছেন?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "ভালো। আর আপনি?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "শুনে ভালো লাগল! আমি ভালো আছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "দারুণ। আজ আমি আপনাকে কীভাবে সাহায্য করতে পারি?\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "দারুণ। আজ আমি আপনাকে কীভাবে সাহায্য করতে পারি?\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আপনার সাথে কথা বলতে পেরে ভালো লাগছে। আমার একটি মানসিক সমস্যা আছে, অনেকটা এমন ভয় যে আমি আমার ক্লাসে ফেল করব, এটি আমার ভবিষ্যতের ক্যারিয়ারে দারুণভাবে প্রভাব ফেলবে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আপনার সাথে কথা বলেও ভালো লাগছে। আপনি খুব চিন্তিত শুনে আমি দুঃখিত। আপনার কেন মনে হচ্ছে যে আপনি ক্লাসে ফেল করবেন? আপনি কি এই বিষয়ে ভালো নন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "প্রফেসর যেভাবে পড়াচ্ছেন তা আমি বুঝতে পারছি না। এই মুহূর্তে ক্লাসের ৫০%-এরও বেশি শিক্ষার্থী ফেল করছে। উদ্বেগটা পাগলের মতো করে দিচ্ছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "শুনে মনে হচ্ছে এটি প্রফেসরের সমস্যা। সবচেয়ে খারাপ পরিস্থিতি সম্পর্কে চিন্তা করা সবসময়ই ভালো। যদি, যদি আপনি সত্যিই ক্লাসে ফেল করেন, তাহলে কী হবে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমি যদি কোর্সে ফেল করি, তবে একই প্রফেসরের সাথে কোর্সটি পুনরায় করার জন্য আমার একবার সুযোগ থাকবে। আমি যদি দ্বিতীয়বারও ফেল করি, তবে নার্স হওয়ার জন্য আমি আর সেই জেলার কোনো কলেজে যেতে পারব না।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "বুঝতে পেরেছি! আপনার ক্যারিয়ারের লক্ষ্যটি আমার খুব পছন্দ হয়েছে। আমি যখন ছাত্র ছিলাম, তখন প্রফেসরের রুমে প্রচুর যেতাম। আমি প্রায় সব ক্লাসের জন্যই এটি করতাম। কিছু প্রফেসর আমাকে অনেক সাহায্য করেছিলেন এবং অনেক ধারণা দিয়েছিলেন। আপনিও কি তাদের কাছে যান?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "বুঝতে পেরেছি! আপনার ক্যারিয়ারের লক্ষ্যটি আমার খুব পছন্দ হয়েছে। আমি যখন ছাত্র ছিলাম, তখন প্রফেসরের রুমে প্রচুর যেতাম। আমি প্রায় সব ক্লাসের জন্যই এটি করতাম। কিছু প্রফেসর আমাকে অনেক সাহায্য করেছিলেন এবং অনেক ধারণা দিয়েছিলেন। আপনিও কি তাদের কাছে যান?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমি অফিসের সময় অনেক শিক্ষার্থীর সাথেই তাদের কাছে যাই, কিন্তু মনে হয় না এটি কোনো কাজে আসছে। আমি উদ্বিগ্ন এবং আমার ক্যারিয়ারের লক্ষ্য পূরণ করতে পারব কি না তা নিয়ে সন্দেহ হতে শুরু করেছে। আমি ক্লিনিক্যাল কাজ এবং হাসপাতালে আমার ডিউটির সময়গুলো পছন্দ করি, কিন্তু পরীক্ষাগুলো একেবারেই পাগলামি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আমি দেখতে পাচ্ছি যে আপনার অনেক আগ্রহ রয়েছে এবং আপনি চেষ্টা করে যাচ্ছেন। আমার স্কুলটি একটি ছোট রাজধানী শহরে ছিল এবং প্রফেসররা অন্য শিক্ষার্থীদের নিয়ে একেবারেই ব্যস্ত থাকতেন না।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "যেহেতু আপনি আসল ক্লিনিক্যাল কাজে ভালো, তাই আমার মনে হয় আপনি পরীক্ষাতেও ভালো করতে পারবেন। হয়তো পরীক্ষার প্রস্তুতির জন্য আপনার আরও সময় প্রয়োজন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "ধন্যবাদ, আমি আপনার সদয় কথার প্রশংসা করছি। মাঝে মাঝে পরীক্ষাগুলো ক্লাসে এবং বইয়ে যা শেখানো হচ্ছে তার মতো মনে হয় না। আমি এরই মধ্যে বিস্তারিত নোট তৈরি করেছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "সেই পরীক্ষাগুলো কৌশলী হয়, সেক্ষেত্রে আমি পরীক্ষার আগে ক্লাসে বেশ কয়েকটি প্রশ্ন জিজ্ঞাসা করতাম। পরীক্ষায় পাস করার জন্য ঠিক কী পড়তে হবে তা শিক্ষার্থীদের জানা প্রয়োজন। আমার মনে হয় না বেশিরভাগ প্রফেসর শিক্ষার্থীদের পরীক্ষার প্রস্তুতিতে সাহায্য করতে আপত্তি করবেন।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "সাহায্য করতে পেরে আমি আনন্দিত এবং আমি স্কুলে ও আপনার ক্যারিয়ারে আপনার দারুণ সাফল্য কামনা করছি।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আপনাকে অনেক ধন্যবাদ। আমি আপনার কাছে সত্যিই কৃতজ্ঞ।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "যেকোনো সময়, শুভ বড়দিন"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "শুভ বড়দিন!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আপনার দিনটি চমৎকার কাটুক!"
+      }
+    ],
+    "seeker_question1": "খুব ভালো মানুষ",
+    "seeker_question2": "প্রথমে এটি বিভ্রান্তিকর ছিল",
+    "supporter_question1": "কথোপকথন শেষ",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "পূর্ববর্তী অভিজ্ঞতা",
+    "emotion_type": "উদ্বেগ",
+    "problem_type": "চাকরি সংকট",
+    "situation": "আমার কাজের ক্ষেত্রের একটি চাকরি থেকে আমাকে বরখাস্ত করা হয়েছিল। আমাকে আবার আমার বাবা-মায়ের সাথে থাকতে শুরু করতে হয়েছিল।",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "4",
+        "empathy": "3",
+        "relevance": "2",
+        "final_emotion_intensity": "3"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "হ্যালো, আপনি কেমন আছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি এখন ভালো আছি। ঘটনাটি সাড়ে ৬ বছর আগের।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনি কি আমাকে এই সম্পর্কে আরও কিছু বলতে চান?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "আমি ১৪ মাস ধরে চাকরিটি করছিলাম এবং ঘুমানোর আগে প্রচুর মদ্যপান করতাম, সাধারণত রাত ১টার দিকে। চাকরিটা ছিল সেকেন্ড শিফটের। মদ্যপান আমার REM ঘুমকে প্রভাবিত করেছিল এবং পরের দিন আমি প্রায়ই ক্লান্ত থাকতাম।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আমি সেটা বুঝতে পারছি..."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "এর জন্যই কি আপনি চাকরি হারিয়েছিলেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "2"
+        },
+        "content": "এর পরপরই আমি একটি স্লিপ স্টাডি করিয়েছিলাম এবং আমার স্লিপ অ্যাপনিয়া ধরা পড়েছিল, যা কর্মক্ষেত্রে ঘুমিয়ে পড়ার প্রধান কারণ ছিল।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "উফ, এটা তো ভালো কিছু নয়... আমি বুঝতে পারি যে শারীরিক সমস্যাগুলো আমাদের জীবনে সব ধরনের সমস্যার সৃষ্টি করতে পারে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি ৬ বছর ধরে একটি CPAP ব্যবহার করছি এবং নাটকীয়ভাবে আমার মদ্যপান কমিয়ে দিয়েছি। সেই সময়ের যেকোনো দিনের তুলনায় এখন আমি সারাদিন কতটা সতেজ থাকি তা অবাক করার মতো, এমনকি যে দিনগুলোতে আমি মদ্যপান করতাম না, কারণ সামগ্রিক স্বাস্থ্যের ওপর প্রভাবগুলো আমার সাথেই রয়ে গিয়েছিল।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আমি বুঝতে পারছি.."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার জীবনযাত্রার মান কি উন্নত হয়েছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "হ্যাঁ, আমি এখন আমার জীবন নিয়ে আরও বেশি উৎসাহী, পারিবারিক সম্পর্কগুলো আগের চেয়ে ভালো হয়েছে এবং আমি হারানো বিশ্বাস আবার ফিরে পেয়েছি।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "ছোট ছোট জিনিসগুলো মিলে একটি বড় চিত্র তৈরি করে.."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার বড়দিন কেমন কাটছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "2"
+        },
+        "content": "বেশ ভালো; আমরা আমার ভাইয়ের সাথে কথা বলেছিলাম যে ১২০০ মাইল দূরে থাকে এবং কোভিড-১৯-এর কারণে আসতে পারেনি। আমি কয়েকজন বন্ধুর সাথে একটি পুরস্কারপ্রাপ্ত আলোর প্রদর্শনী দেখার পরিকল্পনা করছি। আমরা গত রাতে উপহারগুলো খুলেছি (আমি এবং আমার বাবা-মা)।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "এটি দারুণ, আমি নিশ্চিত যে এটি কিছু বিষয় থেকে আপনার মন সরিয়ে নিতে সাহায্য করবে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আমি একজন দৌড়বিদ। মানসিক চাপ অনুভব করলে আমি দৌড়াতে পছন্দ করি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "আমি এখন প্রায় ফুল-টাইম কাজ করছি এবং আমার সামাজিক জীবন আগের চেয়ে অনেক বেশি ফলপ্রসূ।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আমি মাদকাসক্তির সমস্যাগুলো বুঝতে পারি। আমি এমন একটি পরিবারে ছিলাম যেখানে এই ধরনের কিছু সমস্যা ছিল। আমি নিশ্চিত যে এটি সবার জন্যই বেশ কঠিন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি একটি খ্রিস্টান ১২-ধাপের (Christian 12-step) প্রোগ্রামে যাই।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আমি এটির সাথে বেশ পরিচিত।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কি একটি বড় সাপোর্ট গ্রুপ আছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "2"
+        },
+        "content": "সেখানে নিয়মিত প্রায় ৬০ জন লোক গেলেও তারা আমাকে নাম ধরে মনে রেখেছে। কথা বলার জন্য ধন্যবাদ। মুখ না দেখে ইন্টারনেটের মাধ্যমেও যোগাযোগ রাখাটা সহায়ক।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "কোনো সমস্যা নেই, আমি বুঝতে পারি যে জিনিসগুলো কখনও কখনও কতটা কঠিন হয়। আজ আমি আপনাকে আর কীভাবে সাহায্য করতে পারি?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "তেমন নির্দিষ্ট কোনো কিছু নেই। আপনাকে ধন্যবাদ।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "কোনো ব্যাপার না, আপনার বড়দিনের বাকি সময়টা দারুণ কাটুক!"
+      }
+    ],
+    "seeker_question1": "মনে হচ্ছিল যেন প্রতিক্রিয়াগুলো তালিকা থেকে কম্পিউটারের মাধ্যমে বেছে নেওয়া হয়েছে - খুব একটা স্বাভাবিক মনে হয়নি",
+    "seeker_question2": "সেই বিষয়গুলো ঠিক ছিল।",
+    "supporter_question1": "",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "বিষণ্ণতা",
+    "problem_type": "চলমান বিষণ্ণতা",
+    "situation": "আমার বিদেশে বিয়ে হওয়ার কথা ছিল, কিন্তু কোভিডের কারণে সীমান্ত নীতির জন্য আমি তা করতে পারছি না।",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "3",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যালো\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আজ সকালে আপনি কেমন আছেন?\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি একটু বিষণ্ণ বোধ করছি\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "নিজেকে ঠিক স্বাভাবিক মনে হচ্ছে না।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "শুনে খারাপ লাগল, আপনার মন এত খারাপ কেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "অনেক কিছুই আছে, তবে শুরুতেই বলি, আন্তর্জাতিক সীমান্ত নীতির কারণে ৩ বছর ধরে একসাথে থাকা আমার বাগদত্তার সাথে পরিকল্পনা অনুযায়ী আমি বিয়ে করতে পারছি না।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এবং সম্প্রতি সে থার্ড-ডিগ্রি পোড়া আঘাত পেয়েছে\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "তার মা, বাবা এবং সে নিজেও কোভিডে আক্রান্ত\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আর তার দাদা কোভিডে মারা গেছেন এবং তার দাদি হাসপাতালে ভর্তি আছেন\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "তার মায়ের ফুসফুসের ক্যান্সার আছে\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এবং এসব কিছুই আমাকে খুব কষ্ট দিচ্ছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আমি যদি আপনার কথা ঠিক শুনে থাকি, আপনার বাগদত্তা, যার পরিবার এত কিছুর মধ্য দিয়ে যাচ্ছে, সীমান্ত নিষেধাজ্ঞার কারণে আপনার সাথে বিয়ে করতে পারছে না?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, একদম ঠিক।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আমি বুঝতে পারছি আপনি কেন এত বিষণ্ণ, আপনি এবং আপনার বাগদত্তা যা কিছুর মধ্য দিয়ে যাচ্ছেন তার জন্য আমি সত্যিই খুব দুঃখিত।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "ধন্যবাদ, কথাগুলো খুলে বলতে পেরে ভালো লাগছে।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার মনে হয় পরিস্থিতি সামাল দেওয়ার জন্য আমাকে কোনো উপায় বের করতে হবে।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "যদি কিছু মনে না করেন, আপনার বাগদত্তা কোথা থেকে এসেছেন?\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "ইন্দোনেশিয়া\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমি আগেও এমন পরিস্থিতির কথা শুনেছি, তো এই অবস্থার সমাধানের জন্য আপনি কী পদক্ষেপ নিয়েছেন?\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমরা বিজনেস ভিসার মাধ্যমে অন্যান্য বিকল্পগুলো দেখছি, তবে জানি না সেটা কীভাবে কাজ করবে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আপনি যদি একজন আমেরিকান হন, তবে আপনি সহজেই ইন্দোনেশিয়া যেতে পারেন, আপনার সুন্দর বাগদত্তাকে বিয়ে করে দম্পতি হিসেবে ফিরে আসতে পারেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, তবে দুর্ভাগ্যবশত বর্তমানে কোভিডের কারণে সীমান্ত বন্ধ রয়েছে।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "আচ্ছা, এমনটা হলে কেমন হয়: গ্রিসের মতো এমন কোনো দেশে যান যেখানে আমেরিকানদের যাওয়ার অনুমতি আছে, আর আপনার বাগদত্তাকেও সেখানে দেখা করতে বলুন। সেখানেই বিয়ে করুন এবং আপনাদের হানিমুনটাও সেখানেই কাটান।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "এটি একটি দারুণ ধারণা!\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আর যদি গ্রিস ইন্দোনেশিয়ানদের অনুমতি না দেয়, তবে আপনি গ্রিসে যান, সেখানে দুই সপ্তাহ অপেক্ষা করুন এবং তারপর ইন্দোনেশিয়ার উদ্দেশ্যে রওনা দিন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এটি সত্যিই খুব ভালো একটি ধারণা, আপনার সাথে কথা বলে ভালো লাগল।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আমি জানি এই কঠিন সময়ে বিশেষ করে তার পরিবারের সাথে যা ঘটছে তাতে আপনার বাগদত্তার সাথে আপনার থাকাটা খুব দরকার। তবে মনে রাখবেন যে তার জন্য আপনাকে শক্ত হতে হবে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আপনাকে অনেক ধন্যবাদ, আপনার দিনটি ভালো কাটুক।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আপনাকে স্বাগতম।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আপনার দিনটিও ভালো কাটুক এবং সাবধানে থাকবেন।"
+      }
+    ],
+    "seeker_question1": "এটি আমাকে ভালো বোধ করতে সাহায্য করে।",
+    "seeker_question2": "আমার এমন কিছু মনে পড়ছে না।",
+    "supporter_question1": "কিছু না",
+    "supporter_question2": "কিছু না"
+  },
+  {
+    "experience_type": "পূর্ববর্তী অভিজ্ঞতা",
+    "emotion_type": "বিষণ্ণতা",
+    "problem_type": "সঙ্গীর সাথে বিচ্ছেদ",
+    "situation": "আমাদের মাঝে সব ঝগড়ার কারণে আমার বান্ধবী এবং আমার বিচ্ছেদ হয়ে যায়। এটি দুজনের সম্মতিতেই হয়েছিল কিন্তু তারপরেও এটি দুঃখজনক ছিল। আমার মনে হচ্ছিল যেন আমার জীবন শেষ হয়ে গেছে এবং সবকিছু সাদাকালো হয়ে গেছে। এরপর এক বছর ধরে আমি বিষণ্ণ ছিলাম।",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "5",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "2"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "হ্যালো, আজ আপনার কেমন লাগছে? এমন কিছু কি আছে যা নিয়ে আপনি কথা বলতে চান?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি দুঃখিত কারণ আমি আমার এক বছরের বান্ধবীকে হারিয়েছি।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "ওহ, এটি শুনে আমি খুবই দুঃখিত - কাউকে হারানোর জন্য এটি বছরের একটি খুব খারাপ সময়। অনুগ্রহ করে জেনে রাখুন যে সময়ের সাথে সাথে এটি ঠিক হয়ে যাবে!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "আপনার কেন মনে হয় যে এটি ঠিক হয়ে যাবে?\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আসলে, যদিও এটি একটি বহুল প্রচলিত কথার মতো শোনায়, তবে সময় সত্যিই ক্ষত সারাতে সাহায্য করে। একটি ব্রেকআপ সামলে উঠতে আমার কিছুটা সময় লেগেছিল। আমরা আট বছর একসাথে ছিলাম!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "সেটি নিশ্চয়ই খুব কঠিন ছিল। অন্য কাউকে খুঁজে না পেয়ে কি এই কষ্ট থেকে সেরে ওঠা সম্ভব?\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "হ্যাঁ, আমার মনে হয় সম্ভব, তবে আপনাকে সত্যিই নিজের প্রতি সদয় হতে হবে এবং নিজেকে সময় দিতে হবে। আপনাকে সমর্থন করার জন্য আপনার কি ভালো বন্ধু আছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আমার অনেক বন্ধুই এটি বুঝবে না কারণ তারা দীর্ঘমেয়াদী সম্পর্কে আছে। তবে হ্যাঁ, আমার কয়েকজন ভালো বন্ধু আছে।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "সেটি অন্তত একটি আশীর্বাদ, যদিও আমি জানি যে আপনি যখন সিঙ্গেল থাকেন তখন অন্য মানুষদের সুখী সম্পর্কে দেখা কঠিন হতে পারে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আপনার সঙ্গীকে হারানোর প্রথম বছরে পরিস্থিতি সামাল দিতে আপনি কী করেছিলেন?\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "সত্যি বলতে আমি অনেক কেঁদেছিলাম, বিশেষ করে যেহেতু সে অন্য কাউকে নিয়ে সুখী ছিল। তবে আমি আমার কাজ এবং শখের দিকে মনোযোগ দেওয়ার চেষ্টা করেছিলাম। এটি সাহায্য করেছিল।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "কী ধরনের শখ আপনাকে সাহায্য করেছিল?\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আমি বই পড়তে ভালোবাসি। আপনার কি এমন কিছু আছে যা আপনাকে শিথিল করতে এবং অন্যান্য বিষয় থেকে মন সরিয়ে নিতে সাহায্য করতে পারে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি লিখতে ভালোবাসি কিন্তু মাঝে মাঝে \nবিষণ্ণতা আমাকে পুরোপুরি নিঃশেষ করে দেয় এবং আমি শুধু খালি পৃষ্ঠার দিকে তাকিয়ে থাকি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "এই মুহূর্তে তার সাথে কি আপনার কোনো যোগাযোগ আছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "2"
+        },
+        "content": "আমি তার সাথে মিটমাট করার এবং বন্ধু হওয়ার চেষ্টা করেছিলাম কিন্তু সে তিক্ত হয়ে আছে।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আপনার কি মনে হয় যে সম্ভবত আপনি তার সাথে ততটা ভালো আচরণ করেননি যতটা আপনি করতে পারতেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ। আমি সব সময় সেই বিষয়ে ভাবি... আমি হয়তো আরও ভালো হতে পারতাম, তবে সে আমার প্রথম ছিল এবং আমি বোকা ছিলাম। আমি তাকে যথেষ্ট মূল্যায়ন করিনি।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "যাই হোক, আপনি অন্তত একটি শিক্ষা পেয়েছেন এবং আমার মনে হয় ভবিষ্যতে নারীদের সাথে আরও ভালো আচরণ করবেন :)"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "3"
+        },
+        "content": "হ্যাঁ, আপনার কথা ঠিক। হয়তো এটি আমার পক্ষেই কাজ করবে। সফল হওয়ার জন্য আপনাকে মাঝে মাঝে ব্যর্থ হতে হয়।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "একদম! দিন শেষে এটি একটি শেখার অভিজ্ঞতা। হয়তো আপনার এই বিষয়ে কারও সাথে কথা বলা উচিত? একজন পেশাদার কাউন্সেলরের সাথে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার সেটি করা উচিত। অতীতে কাউন্সেলরদের সাথে যুক্ত হতে আমার বেশ কষ্ট হয়েছিল, তবে এবার হয়তো কাজ হতে পারে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "আমি আশা করি আপনাকে কিছু বিষয় নিয়ে ভাবার সুযোগ দিতে পেরেছি :)। ভালো থাকবেন এবং শুভ বড়দিন!"
+      }
+    ],
+    "seeker_question1": "না।",
+    "seeker_question2": "এটি ইতিমধ্যেই দারুণ।",
+    "supporter_question1": "",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "ভয়",
+    "problem_type": "চাকরির সংকট",
+    "situation": "চাকরি হারানোর দুশ্চিন্তা",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "5",
+        "empathy": "5",
+        "relevance": "4",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "3"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কি কোনো সাহায্যের প্রয়োজন?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আসল সমস্যাটি কী?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আমি নিজেও ঠিক জানি না, কারণ আমি ভালো নেই।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "চাকরি হারানোর দুশ্চিন্তা হচ্ছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "মাঝে মাঝে আমার মন খারাপ হয়, তবে আমি তখন ভালো গান শুনি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার কখন থেকে এমন মন খারাপ লাগা শুরু হয়েছে?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "মাঝে মাঝে আমার চাকরি হারানোর ভয় হতো।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আমি আপনাকে মানসিক চাপ কমানোর মতো কিছু কাজ করার পরামর্শ দেব।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমি এখন ওসব ভাবতে পারছি না, কারণ গত তিন মাস আগে বেতন কমানো হয়েছে আর সামনের মাসে ছাঁটাই করা হবে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আপনি কি আরেকবার বলবেন? গত তিন মাসে আপনার বেতন কমানো হয়েছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, আর কোম্পানি কিছু কর্মী ছাঁটাই করার পরিকল্পনা করছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনি কীভাবে জানলেন যে ছাঁটাই করা হচ্ছে?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "বাড়তি আয়ের জন্য উবার বা লিফট-এ কাজ করার চেষ্টা করছেন না কেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "তারা সব কর্মীদের একটি নোটিশ পাঠিয়েছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "তাতে কী লেখা ছিল? খবরটি শুনে আমার খুব খারাপ লাগছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আপনি কি আপনার সিভি আপডেট করার এবং চাকরির সাইটগুলোতে খোঁজার কথা ভেবেছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "না, আমার মনে হয় আমি এখনই সেটা করব, হয়তো এতে কিছুটা সাহায্য হবে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "এটি খুব ভালো একটি সিদ্ধান্ত। আগে থেকেই সক্রিয় হওয়া এবং একই ধরনের চাকরি খোঁজা আপনাকে সাহায্য করতে পারে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, ধন্যবাদ।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "উদ্যোগ নেওয়া এবং আয়ের অন্যান্য উৎস খোঁজা শুরু করাটা বেশ ভালো।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমার বিশ্বাস আমি চেষ্টা করলে এটা কাজে দেবে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আমি সাধারণত চাকরির সাইটগুলোতে খুঁজি। আগেও আমি এমনটাই করেছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "নিজের ওপর বিশ্বাস রাখাটা খুব জরুরি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমি উবারের কথা ভাবছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আমি লিফট-এর কথাও বলতে পারি..."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার আর কী কী অনুভূতি বা চিন্তা হচ্ছে যা আমি বুঝতে সাহায্য করতে পারি?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমি এখন আর কিছু ভাবতে পারছি না, আমার পাশে থাকার জন্য আপনাকে ধন্যবাদ।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আপাতত বিদায়।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "আমার মনে হয় উত্তর দেওয়ার জন্য আমি এখানে থাকতে পারি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "ধন্যবাদ, এবার আমার যাওয়ার সময় হয়েছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আমার পরামর্শগুলো আপনার মন খারাপ ভাব কমাতে কতটা সাহায্য করছে?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "ঠিক আছে। আপনি 'Quit/Finish' বাটনে ক্লিক করতে পারেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "অনেক সাহায্য হলো, ধন্যবাদ এবং বিদায়।"
+      }
+    ],
+    "seeker_question1": "না",
+    "seeker_question2": "কোনোটিই নয়",
+    "supporter_question1": "আমার মনে হয় সাহায্যপ্রার্থী বিষয়টি অস্পষ্টভাবে এবং ভাঙা ভাঙা ইংরেজিতে বলেছেন।",
+    "supporter_question2": "আপনি হয়তো সময়সীমা সম্পর্কিত সতর্কবার্তা পেতে চাইতে পারেন"
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "উদ্বেগ",
+    "problem_type": "চাকরির সংকট",
+    "situation": "চাকরি হারানোর ভয় ও উদ্বেগ",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "4",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "4"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "শুভ দুপুর"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "শুভ দুপুর। আপনি কেমন আছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি একদমই ভালো নেই"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "ওহ না! শুনে খুব খারাপ লাগলো। কী হয়েছে বলবেন কি?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "এই মহামারী আমার জীবনে অনেক বড় বিপর্যয় নিয়ে এসেছে"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "প্রথমে বেতন কমানো হলো, আর এখন চাকরি থেকে ছাঁটাই করার কথা চলছে"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "বুঝতে পারছি। এই মহামারী সত্যিই ভয়াবহ। আপনার এই পরিস্থিতির কথা শুনে খুব খারাপ লাগছে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার কোম্পানি আসলে কাউকেই বিবেচনা করতে চাচ্ছে না"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "পরিস্থিতিটা সত্যিই খুব কঠিন। আপনি আজ এমন তৃতীয় ব্যক্তি, যিনি এই একই সমস্যার মধ্য দিয়ে যাচ্ছেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আর আমি বুঝতে পারছি না এখন আমার কী করা উচিত"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "তারা কি অন্য কোনো কোম্পানির সাথে কথা বলে আপনার জন্য কোনো কাজের ব্যবস্থা করতে পারে? অথবা আপনাকে যদি ছাঁটাই করাও হয়, পরবর্তীতে কি আবার কাজে ফেরার কোনো সুযোগ আছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "তারা শেষ পর্যন্ত কী সিদ্ধান্ত নেবে, আমি তাও জানি না"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আপনি কি আপনার বসের সাথে কথা বলে তাকে জানাতে পারেন যে চাকরি টিকিয়ে রাখার জন্য আপনি অন্য কোনো দায়িত্বও পালন করতে রাজি আছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "এটা শুধু একজনকে নয়, কোম্পানির সবাইকে প্রভাবিত করছে"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "কেউ জানে না এরপর কার পালা"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "বুঝতে পারছি। যদি সত্যিই এমনটা হওয়ার আশঙ্কা থাকে, তবে আমি বলবো আপনার জীবনবৃত্তান্ত (resume) একটু নতুন করে গুছিয়ে আকর্ষণীয় করে তুলুন। তবে হ্যাঁ, নতুন চাকরি খোঁজা সত্যিই অনেক মানসিক চাপের।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এখন তো বাজারে আর তেমন কোনো চাকরিও নেই"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এই মহামারীর কারণে অনেক মানুষই ক্ষতিগ্রস্ত হচ্ছে"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "বুঝতে পারছি। নিজের কোনো ব্যবসা শুরু করা হয়তো এই সময়ে সাহায্য করতে পারে। আপনার কী মনে হয়?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "একদম একমত"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "ব্যবসা? এই মুহূর্তে কোনো পুঁজি ছাড়া তো ব্যবসা করা সম্ভব নয়"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "হ্যাঁ, যেমন কোনো কিছু শেখানো বা পড়ানোর মতো কাজে কিন্তু খুব বেশি পুঁজির প্রয়োজন হয় না"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আমিও এক পর্যায়ে অনলাইন টিউটর হওয়ার কথা ভাবছি। আপনার কী মনে হয়?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমি উবার চালানোর কথাও ভাবছি"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "সাহায্য করার জন্য অনেক ধন্যবাদ, বিদায়"
+      }
+    ],
+    "seeker_question1": "না",
+    "seeker_question2": "কিছুই না",
+    "supporter_question1": "",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "বিষণ্ণতা",
+    "problem_type": "চলমান বিষণ্ণতা",
+    "situation": "এই ছুটির মরসুমে আমার খুব কঠিন সময় কেটেছে। আমি আমার চাকরি হারিয়েছি, এবং আমার সঙ্গীর সাথেও সমস্যা তৈরি হয়েছে। আমি স্বাভাবিকের চেয়ে বেশি ঘুমাচ্ছি এবং অতিরিক্ত মদ্যপান করছি।",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "4",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "2"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "শুভ সকাল\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "হ্যালো"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "শুভ বড়দিন\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "শুভ সকাল"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "শুভ বড়দিন"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আজ আপনাকে কীভাবে সাহায্য করতে পারি?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমি ইদানীং বিষণ্ণতার সাথে খুব বেশি লড়াই করছি।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার মনে হয় আমি কোনো কাজের নই, কিন্তু মনের অন্য অংশ বলে যে এটা সত্যি নয়।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এই ধরনের দ্বন্দ্বমূলক চিন্তাভাবনা থাকা সত্ত্বেও.... আমি নিজেকে সচল করতে পারছি না।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি ক্রমশ তলিয়ে যাচ্ছি.... কীভাবে এটা থেকে বের হব বুঝতে পারছি না\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আমি সত্যিই দুঃখিত, আমি বুঝতে পারছি আপনার কেমন লাগছে। শুধু এটুকু জানুন যে সব ঠিক হয়ে যাবে"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "কীসের কারণে আপনার এই বিষণ্ণতা শুরু হয়েছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "মানে, সাধারণত পরিস্থিতি নিজে থেকেই ঠিক হয়ে যায়, সবসময়ই হয়.... কিন্তু আমি এই যে একঘেয়ে ও হতাশাজনক পরিস্থিতিতে আটকে আছি, তা থেকে বের হতে পারছি না।\n\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আসলে আমি চাকরিটা হারিয়েছি কারণ আমার গার্লফ্রেন্ড আমাকে মেসেজ করে জানিয়েছিল যে সে আর আমার সাথে থাকতে চায় না.... আর আমি পরিস্থিতিটা সামলাতে পারিনি।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "তারপর থেকেই আমার অবস্থা খারাপ হতে শুরু করে..... অন্য চাকরি খুঁজতে বা হারিয়ে যাওয়া আয় পুষিয়ে নিতে খুব সমস্যা হচ্ছে।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আপনি কি থেরাপি নেওয়ার কথা ভেবেছেন? এটি মাঝে মাঝে বিষণ্ণতা কাটিয়ে উঠতে সাহায্য করে"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আসলে আগামী মঙ্গলবার আমার একজন ডাক্তারের সাথে অ্যাপয়েন্টমেন্ট আছে....\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি সেদিন একটা ফোন করেছিলাম.... যেটা করা নিজের মধ্যেই একটা কঠিন কাজ ছিল\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "সেটা খুব ভালো। আপনি কি অন্য চাকরি খুঁজছেন, সব জায়গায় আবেদন করছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "হ্যাঁ করছি.... তবে ফিরতি কল পেতে বেশ সমস্যা হচ্ছে।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আমি জানি এই মহামারীর মধ্যে চাকরি পাওয়া এখন খুবই কঠিন এবং এতে সময় লাগবে, তবে আমি জানি আপনি শীঘ্রই একটি চাকরি পেয়ে যাবেন"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "যা নিজের মধ্যেই অত্যন্ত হতাশাজনক। আমি জানি এটা পুরোটাই মানসিক বিষয়, কিন্তু আমি কিছুতেই এই বৃত্ত ভেঙে বের হতে পারছি না।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "আপনাকে ইতিবাচক থাকতে হবে, মাথা ঠান্ডা রাখতে হবে এবং নিজেকে বলতে হবে যে সব ঠিক হয়ে যাবে"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আপনার কেমন লাগছে আমি তা বুঝতে পারছি এবং আপনি একা নন"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমার কথা শোনার এবং বোঝার জন্য আমি সত্যিই আপনার কাছে কৃতজ্ঞ\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এটি ভীষণভাবে সাহায্য করছে\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আপনাকে স্বাগত। সব ঠিক হয়ে যাবে, শুধু এটুকু বিশ্বাস রাখুন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আপনি ঠিক বলেছেন... আমি এটা জানি, শুধু মনে-প্রাণে বিশ্বাস করা দরকার। প্রতিটি দিনই নতুন সুযোগের দিন এবং গতকালের চেয়ে ভালো হওয়ার দিন।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "ঠিক, এবং আপনাকে সেই নেতিবাচক চিন্তাগুলোকে নিয়ন্ত্রণে আনতে হবে এবং সেগুলোর জায়গায় ইতিবাচক চিন্তা নিয়ে আসতে হবে"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমি পরিস্থিতিগুলোকে অন্যভাবে দেখার চেষ্টা করতে পারি এবং সবকিছুকে 'অর্ধেক খালি' না ভেবে 'অর্ধেক পূর্ণ' হিসেবে দেখতে পারি\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "আপনি ঠিক বলেছেন, কোনো পরিস্থিতির প্রতি নিজের অনুভূতিগুলোকে নিয়ন্ত্রণ করা আপনাকে শিখতে হবে"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি খুব সহজেই অতিরিক্ত প্রতিক্রিয়া দেখিয়ে ফেলি বা সীমা ছাড়িয়ে যাই..... এ বিষয়ে আমি আপনার সাথে একমত।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "বিষণ্ণতাকে আপনার ওপর পুরোপুরি নিয়ন্ত্রণ নিতে দেবেন না, তাহলে সবকিছুই খারাপের দিকে যাবে"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "সেটা সত্যি.... আমি এখন থেকে বিষয়গুলোর ইতিবাচক দিকটা দেখার চেষ্টা করব.... আমার মনে হয় পরিস্থিতি যতটা খারাপ ভাবছি, ততটা খারাপ নয়।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "একবার যখন আপনি পরিস্থিতির ওপর নিজের অনুভূতি নিয়ন্ত্রণ করতে শিখে যাবেন, তখন এটি বজায় রাখা বেশ সহজ হবে"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার মনে হয় ডাক্তারের সাথে দেখা করাটাও অনেক সাহায্য করবে। আপনি আমাকে অত্যন্ত সাহায্য করেছেন\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "হ্যাঁ, ডাক্তারের সাথে দেখা করাটা সত্যিই আপনার জন্য উপকারী হবে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমার সাথে ১৫ মিনিট কথা বলার জন্য আপনাকে ধন্যবাদ\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "কোনো ব্যাপার না। শুভ বড়দিন এবং দয়া করে মন ভালো রাখুন :)"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি রাখব, আপনি অনেক বড় সাহায্য করেছেন :D\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আমি আনন্দিত যে আজ আপনাকে সাহায্য করতে পেরেছি। নিজের যত্ন নেবেন।"
+      }
+    ],
+    "seeker_question1": "এটি দারুণ ছিল!",
+    "seeker_question2": "না, এটি খুবই চমৎকার এবং সাহায্যকারী ছিল",
+    "supporter_question1": "আমি আনন্দিত যে আমি সাহায্যপ্রার্থীকে অনেক সাহায্য করতে পেরেছি।",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "বর্তমান অভিজ্ঞতা",
+    "emotion_type": "দুঃখ",
+    "problem_type": "চলমান বিষণ্ণতা",
+    "situation": "অতিমারী নিয়ে বিষণ্ণতা",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "5",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "4"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "শুভ সন্ধ্যা। আজ আপনার কেমন লাগছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "শুভ দুপুর"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "এমন কিছু কি আছে যা নিয়ে আপনি কথা বলতে চান?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আমি মোটেও ভালো নেই"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "শুনে খুব খারাপ লাগলো, বছরের এই সময়টা তো আনন্দের হওয়ার কথা ছিল। আপনার জীবনে কী চলছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি মাত্রই কোভিড-১৯ এর কারণে আমার কাজিনকে হারিয়েছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "ওহ, শুনে অত্যন্ত দুঃখ পেলাম, কী ভয়ানক ব্যাপার! তাহলে আপনি এখন নিজেকে সম্পূর্ণ একা এবং শোকার্ত বোধ করছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "এটা খুবই খারাপ একটা বছর!"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Self-disclosure"
+        },
+        "content": "হ্যাঁ, আসলেই সবার জন্যই এটা খুব কঠিন একটা বছর। এই বছরের শুরুর দিকে আমার পরিবারের একজন সদস্যও কোভিডে আক্রান্ত হয়েছিলেন, তবে ভাগ্যবশত তিনি সুস্থ হয়ে উঠেছেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "উনি সবার কাছেই খুব ভালো একজন মানুষ ছিলেন, আমি কখনোই এমন কিছুর জন্য প্রার্থনা করিনি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "তাহলে কি আপনার মনে হচ্ছে এই সৃষ্টিজগৎ এবং সবকিছুই আপনাকে হতাশ করেছে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমার খুব খারাপ লাগছে, আমি বুঝতে পারছি না কীভাবে আমি আমার চাকরির কাজ সামলাব।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "আপনি কি জানেন যে খুব শীঘ্রই একটি ভ্যাকসিন আসতে চলেছে? আমি জানি আপনার কাজিনের জন্য অনেক দেরি হয়ে গেছে, তবে এটি হয়তো আপনার পরিবারের বাকি সদস্যদের নিয়ে আপনার মনকে কিছুটা শান্ত করতে পারে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আশা করি এটা কাজ করবে"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "হ্যাঁ, আমার মনে হয় আপনার এটি চেষ্টা করে দেখা উচিত। আশা করি এটি সবার জন্যই কাজ করবে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "কারণ এই পরিস্থিতিটা হাতের বাইরে চলে যাচ্ছে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "হ্যাঁ। এই মুহূর্তে এটা আমাদের সবার জন্যই বেশ ভীতিকর। তবে আশা করা যায় আগামী বছরের এই সময়ের মধ্যে পরিস্থিতি নিয়ন্ত্রণে চলে আসবে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আপনি কি এমন কিছু করার কথা ভাবতে পারেন যা আপনার মনকে এই বিষয়গুলো থেকে দূরে সরিয়ে রাখবে?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আমি আসলে জানি না..."
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "হয়তো আপনি নতুন বছরে যেসব ভালো জিনিসের আশা করছেন তার একটি তালিকা তৈরি করতে পারেন? এটি হয়তো আপনাকে আশ্বস্ত করতে সাহায্য করবে যে পরিস্থিতি আরও ভালো হতে পারে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এই মুহূর্তে আমি তেমন কিছুই ভাবতে পারছি না, কারণ আমি এখন পুরোপুরি বিষণ্ণতায় ডুবে আছি। আমার মনে হচ্ছে পৃথিবীটা এখনই ধ্বংস হয়ে যাবে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "দয়া করে এমনটা ভাববেন না! আমার বিশ্বাস আমরা এই পরিস্থিতি কাটিয়ে উঠব। আমাকে এখন যেতে হবে, তবে আপনাকে শুভ বড়দিন!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আপনাকেও শুভ বড়দিন। ধন্যবাদ।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "বিদায়"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "বিদায়!"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "আপনাকে আপনার দিক থেকে চ্যাটটি শেষ করতে হবে... আমি পারছি না।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "ঠিক আছে, ধন্যবাদ।"
+      }
+    ],
+    "seeker_question1": "না",
+    "seeker_question2": "কিছুই না",
+    "supporter_question1": "",
+    "supporter_question2": ""
+  },
+  {
+    "experience_type": "পূর্ব অভিজ্ঞতা",
+    "emotion_type": "বিষাদ",
+    "problem_type": "চলমান বিষণ্ণতা",
+    "situation": "গত মার্চ মাসে আমি আমার দাদিকে কোভিডে হারিয়েছি এবং সেই দুঃখের বোঝা এখনও আমাকে চেপে ধরে আছে।",
+    "survey_score": {
+      "seeker": {
+        "initial_emotion_intensity": "4",
+        "empathy": "5",
+        "relevance": "5",
+        "final_emotion_intensity": "1"
+      },
+      "supporter": {
+        "relevance": "5"
+      }
+    },
+    "dialog": [
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনি কেমন আছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যালো। আমি মোটামুটি আছি। আমি আমার দাদির মৃত্যুর শোকে আছি, তাই ইদানীং মনটা একটু খারাপ।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনার এই ক্ষতিতে আমি অত্যন্ত দুঃখিত... এটি কখন ঘটেছিল?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "এটি মে মাসে ঘটেছিল। আমাকে এক মুহূর্তের জন্য ভাবতে হয়েছিল কারণ আমার মনে হচ্ছিল এটি মার্চ মাস ছিল। কিন্তু এটি মে মাস ছিল। এই বছরটা আমাকে পুরোপুরি এলোমেলো করে দিয়েছে। তিনি মে মাসে মারা যান।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "একই কথা বারবার বলার জন্য দুঃখিত। আসলে আমি ইদানীং নিজের স্বাভাবিক ছন্দে নেই।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "ওহ, এটা সত্যিই খুব বেদনাদায়ক, আর আপনার কথাগুলো মোটেও অপ্রাসঙ্গিক বা একই কথার পুনরাবৃত্তি মনে হচ্ছে না।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "ধন্যবাদ। \n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আমি বুঝতে পারছি যে প্রিয়জনকে হারানো অত্যন্ত বেদনাদায়ক একটি অভিজ্ঞতা এবং এর সাথে মানিয়ে নিতে আমাদের কিছুটা সময় লাগতেই পারে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        },
+        "content": "আমার মনে হচ্ছে আপনারা দুজন খুব ঘনিষ্ঠ ছিলেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "হ্যাঁ, সেটা সত্যি। আমি জানি সময়ের সাথে সাথে এই ক্ষত সেরে যাবে, কিন্তু এখন এটা খুবই কষ্টদায়ক।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি যখন ছোট ছিলাম তখন আমরা খুব ঘনিষ্ঠ ছিলাম, তবে গত ১৫ বছর বা তার বেশি সময় ধরে তিনি অন্য একটি রাজ্যের একটি বৃদ্ধাশ্রমে ছিলেন।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি তাঁর সাথে তেমন যোগাযোগ রাখিনি। আমার এখন সেই আফসোস হয়।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি এক ধরণের লজ্জিত যে আমি আরও একটু চেষ্টা করিনি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "আমি এটা পুরোপুরি বুঝতে পারছি। নিজেকে সুস্থ হওয়ার জন্য সময় দেওয়াটা খুবই গুরুত্বপূর্ণ।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "সেটাই আমার জন্য অন্যতম কঠিন একটা বিষয়। আমি নিজের জন্য পর্যাপ্ত সময় নিই না।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        },
+        "content": "যেসব বিষয় আমাদের নিয়ন্ত্রণে নেই, সেগুলো নিয়ে নিজেকে দোষারোপ করবেন না।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনি কী বোঝাতে চাচ্ছেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "ধন্যবাদ। কথাটা শুনে খুব ভালো লাগলো।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "দুঃখিত যদি আমার কথাটি বিভ্রান্তিকর মনে হয়ে থাকে। আমি বলতে চাচ্ছি যে, আমি নিজেকে সামলে নেওয়ার জন্য সময় নিই না কারণ আমার মধ্যে এক ধরণের অপরাধবোধ কাজ করে যে শেষ সময়ে আমি তাঁর সাথে কথা বলিনি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার কি এটা মেনে নেওয়া উচিত?"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "আমার মনে হয় আপনার এটা বোঝা দরকার যে কিছু জিনিস আমাদের নিয়ন্ত্রণের বাইরে ঘটে। শুধু মেনে নিয়ে ভুলে যাওয়া নয়, বরং প্রতি বছর একটা দিন আলাদা করে রাখা যেতে পারে তাঁর জীবনকে স্মরণ করার জন্য।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "এটি খুব ভালো একটি আইডিয়া।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি তাঁর জীবনকে স্মরণ করতে একটি ছোট ভ্রমণে যাওয়ার পরিকল্পনা করছি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আমার দাদি অসাধারণ একজন মানুষ ছিলেন এবং বুরিটো খেতে খুব ভালোবাসতেন, তাই আমরা একসাথে সেগুলো বানাতাম। তিনি মারা যাওয়ার পর, তাঁর জীবন ও স্মৃতিগুলোকে উদযাপন করার জন্য আমরা পুরো পরিবার মিলে বুরিটো বানানো শুরু করি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "এটি সত্যিই খুব মূল্যবান একটি স্মৃতি।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "এটি আমাদের সবাইকে তাঁর মৃত্যুর কথা নয়, বরং তাঁর জীবন এবং সুন্দর স্মৃতিগুলোকে মনে রাখতে সাহায্য করে, যা প্রকাশ করে যে আপনি তাঁকে কতটা ভালোবাসেন।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Question"
+        },
+        "content": "আপনি কি বড়দিন উদযাপন করেন?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আপনি ঠিক বলেছেন। আমার মনে হয় এই ধরণের কিছু করলে তাঁর মৃত্যুকে আমি ভিন্নভাবে দেখতে পারব। তাঁর স্মৃতিকে অপরাধবোধ ছাড়াই আনন্দের সাথে মনে রাখা যাবে। তিনি নিশ্চয়ই চাইতেন না আমি অপরাধবোধে ভুগি। মাঝে মাঝে বাইরের কারও দৃষ্টিভঙ্গি বিষয়গুলোকে সহজ করে দেয়। আপনার সুন্দর কথাগুলোর জন্য আমি কৃতজ্ঞ।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "হ্যাঁ, আমি করি। আপনি কি করেন?\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "শুভ বড়দিন!\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "হ্যাঁ করি, আপনাকেও শুভ বড়দিন!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমি বারবার ভুলে যাচ্ছি যে আজই সেই দিন। এই বছরটা সত্যিই খুব অন্যরকম কেটেছে।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "ধন্যবাদ!"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        },
+        "content": "বছরটা সত্যিই খুব অন্যরকম ছিল, আমি আনন্দিত যে আমরা এর শেষের কাছাকাছি চলে এসেছি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "4"
+        },
+        "content": "আমিও আনন্দিত যে আমরা এর শেষের কাছাকাছি চলে এসেছি।"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "আমার পাশে থাকার জন্য আমি আপনার প্রতি কৃতজ্ঞ। কথা বলার মতো কাউকে পাওয়াটা খুব ভালো ছিল।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Information"
+        },
+        "content": "আমি কি আপনাকে অন্য কোনোভাবে সাহায্য করতে পারি?"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "না। আমার যা প্রয়োজন ছিল, আপনি তার সবকিছুতেই সাহায্য করেছেন।\n"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {},
+        "content": "ধন্যবাদ।\n"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Providing Suggestions"
+        },
+        "content": "আমি বুঝতে পারছি, আপনার কথা শুনতে পেরে আমার ভালো লেগেছে। এটি আমাকেও সমানভাবে সাহায্য করে।"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "কোনো সমস্যা নেই, বছরের বাকি সময়টা আপনার খুব ভালো কাটুক!"
+      },
+      {
+        "speaker": "seeker",
+        "annotation": {
+          "feedback": "5"
+        },
+        "content": "আপনার সাথে কথা বলে খুব ভালো লাগলো। আশা করি আপনার বাকি দিনটা চমৎকার কাটবে! আপনারও! ধন্যবাদ!"
+      },
+      {
+        "speaker": "supporter",
+        "annotation": {
+          "strategy": "Others"
+        },
+        "content": "ধন্যবাদ! ভালো থাকুন!"
+      }
+    ],
+    "seeker_question1": "আমার ভালো লেগেছে যে কথোপকথনটি সম্মানজনক থাকার পাশাপাশি বেশ স্বাভাবিক মনে হয়েছে।",
+    "seeker_question2": "এই মুহূর্তে তেমন কিছু মনে পড়ছে না। আমার এটি করতে ভালো লেগেছে।",
+    "supporter_question1": "এটি ভালো ছিল",
+    "supporter_question2": ""
+  }
+]
